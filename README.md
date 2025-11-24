@@ -1,21 +1,26 @@
-# Liverpool Transfers (2004–2024)
+# Liverpool Transfer Network Analysis (2004–2024)
 
-## Kako pokrenuti
-1) U root folderu napravite `.env` sa: API_FOOTBALL_KEY=VAŠ_KLJUČ
-2) Instalirajte pakete: `pip install -r requirements.txt` (može i u Anacondi).
-3) Otvorite Jupyter, pokrenite `liverpool_transfers.ipynb` ćeliju po ćeliju ali tu je 
-   potrebno promeniti vrednosti "project_root" sa putanjom na kojoj želite da Vam se kreiraju folderi
-4) CSV izlazi su u `data_raw/` i `data_processed/`, slike u `figures/`.
+This project analyzes Liverpool FC’s transfer activity over a 20-year period by modeling the transfer market as a directed network. Clubs are represented as nodes and transfers as edges, enabling structural insights using Social Network Analysis (SNA).
 
-## Struktura grafa
-- Node = klub
-- Edge = transfer (usmeren)
-- Težina ivica: `transfers_count`(izabrana), `total_fee_eur`, `count_transfer/loan/free`, `avg_fee_eur`
+The dataset is collected, cleaned, and transformed into processed CSV files and a final GraphML graph suitable for visualization and further analysis.
 
-## Gephi
-- Import: `data_processed/liverpool_transfers.graphml`
-- Potebno je izabrati orijentisani graf prilikom izbora
-- Sa leve strane u layout bira se ForceAtlas2 i igra sa scalling i gravity (preporucljivo do 1.0) i klikne start,
-  zatim se pusti da se krece graf i kad se svidii polozaj nodova onda kliknuti na stop
-- Takodje sa leve strane u Appearance moze se modifikovati graf.
-- Izvestaj projekta ce sadrzati sliku grafa tako da to je opcija samo ako zelite da pomenite izgled grafa u Gephi :) 
+## Project Scope
+
+- Extraction and preparation of transfer data from 2004–2024  
+- Processing and aggregation of fees, transfer types, and club interactions  
+- Construction of a directed transfer network using NetworkX  
+- Export of the final graph for visualization in Gephi (layout, clustering, centrality)  
+
+## Technologies
+
+- Python (Pandas, NetworkX)  
+- Jupyter Notebook  
+- API-Football (data source)  
+- Gephi (graph visualization)  
+
+## Output
+
+- Cleaned data in `data_processed/`  
+- Raw API data in `data_raw/`  
+- Final transfer network in `.graphml` format  
+- Visualized graphs stored in `figures/`  
