@@ -1,0 +1,266 @@
+club_id,community_id,club_name,is_liverpool
+34,0,Newcastle,False
+35,0,Bournemouth,False
+36,0,Fulham,False
+37,0,Huddersfield,False
+38,0,Watford,False
+39,0,Wolves,False
+40,0,Liverpool,True
+41,0,Southampton,False
+42,0,Arsenal,False
+43,0,Cardiff,False
+44,0,Burnley,False
+46,0,Leicester,False
+47,0,Tottenham,False
+48,0,West Ham,False
+49,0,Chelsea,False
+50,0,Manchester City,False
+51,0,Brighton,False
+52,0,Crystal Palace,False
+53,0,Reading,False
+54,0,Birmingham,False
+55,0,Brentford,False
+56,0,Bristol City,False
+58,0,Millwall,False
+59,0,Preston,False
+60,0,West Brom,False
+61,0,Wigan,False
+62,0,Sheffield Utd,False
+63,0,Leeds,False
+64,0,Hull City,False
+65,0,Nottingham Forest,False
+66,0,Aston Villa,False
+67,0,Blackburn,False
+68,0,Bolton,False
+69,0,Derby,False
+70,0,Middlesbrough,False
+71,0,Norwich,False
+72,0,QPR,False
+73,0,Rotherham,False
+74,0,Sheffield Wednesday,False
+75,0,Stoke City,False
+76,0,Swansea,False
+78,0,Bordeaux,False
+79,0,Lille,False
+80,0,Lyon,False
+84,0,Nice,False
+85,0,Paris Saint Germain,False
+87,0,Amiens,False
+91,0,Monaco,False
+93,0,Reims,False
+94,0,Rennes,False
+110,0,Estac Troyes,False
+116,0,Lens,False
+121,0,Palmeiras,False
+124,0,Fluminense,False
+130,0,Gremio,False
+157,0,Bayern Munich,False
+158,0,Fortuna Dusseldorf,False
+159,0,Hertha BSC,False
+160,0,SC Freiburg,False
+161,0,VfL Wolfsburg,False
+162,0,Werder Bremen,False
+164,0,FSV Mainz 05,False
+165,0,Borussia Dortmund,False
+167,0,1899 Hoffenheim,False
+168,0,Bayer Leverkusen,False
+170,0,FC Augsburg,False
+172,0,VfB Stuttgart,False
+173,0,RB Leipzig,False
+174,0,FC Schalke 04,False
+182,0,Union Berlin,False
+193,0,PEC Zwolle,False
+194,0,Ajax,False
+195,0,Willem II,False
+197,0,PSV Eindhoven,False
+198,0,ADO Den Haag,False
+202,0,Groningen,False
+207,0,Utrecht,False
+209,0,Feyenoord,False
+210,0,Heerenveen,False
+211,0,Benfica,False
+212,0,FC Porto,False
+225,0,Nacional,False
+228,0,Sporting CP,False
+240,0,Arouca,False
+242,0,Famalicao,False
+247,0,Celtic,False
+248,0,Hamilton Academical,False
+249,0,Hibernian,False
+250,0,Kilmarnock,False
+252,0,Aberdeen,False
+254,0,Heart OF Midlothian,False
+255,0,Livingston,False
+257,0,Rangers,False
+334,0,Start,False
+371,0,IF Brommapojkarna,False
+406,0,Aarhus,False
+410,0,GO Ahead Eagles,False
+415,0,Twente,False
+417,0,Waalwijk,False
+424,0,Helmond Sport,False
+435,0,River Plate,False
+446,0,Lanus,False
+449,0,Banfield,False
+451,0,Boca Juniors,False
+452,0,Tigre,False
+457,0,Newells Old Boys,False
+487,0,Lazio,False
+489,0,AC Milan,False
+490,0,Cagliari,False
+492,0,Napoli,False
+496,0,Juventus,False
+497,0,AS Roma,False
+498,0,Sampdoria,False
+500,0,Bologna,False
+505,0,Inter,False
+509,0,Cesena,False
+513,0,Novara,False
+529,0,Barcelona,False
+530,0,Atletico Madrid,False
+531,0,Athletic Club,False
+532,0,Valencia,False
+533,0,Villarreal,False
+535,0,Malaga,False
+536,0,Sevilla,False
+538,0,Celta Vigo,False
+539,0,Levante,False
+541,0,Real Madrid,False
+542,0,Alaves,False
+543,0,Real Betis,False
+544,0,Deportivo La Coruna,False
+545,0,Eibar,False
+548,0,Real Sociedad,False
+549,0,Besiktas,False
+551,0,FC Basel 1893,False
+553,0,Olympiakos Piraeus,False
+554,0,Anderlecht,False
+569,0,Club Brugge KV,False
+571,0,Red Bull Salzburg,False
+575,0,AEK Athens FC,False
+596,0,Zenit Saint Petersburg,False
+598,0,FK Crvena Zvezda,False
+601,0,Austria Vienna,False
+611,0,Fenerbahce,False
+617,0,Panathinaikos,False
+622,0,Panionios,False
+637,0,Sturm Graz,False
+644,0,FC Luzern,False
+646,0,Levski Sofia,False
+689,0,SJK,False
+711,0,Alcorcon,False
+715,0,Granada CF,False
+722,0,Albacete,False
+723,0,Almeria,False
+726,0,Huesca,False
+728,0,Rayo Vallecano,False
+732,0,Zaragoza,False
+733,0,Standard Liege,False
+735,0,St. Truiden,False
+741,0,Cercle Brugge,False
+742,0,Genk,False
+743,0,Royal Excel Mouscron,False
+746,0,Sunderland,False
+747,0,Barnsley,False
+748,0,Burton Albion,False
+854,0,Slavia Sofia,False
+860,0,Extremadura,False
+901,0,Partick,False
+940,0,Perth Glory,False
+998,0,Trabzonspor,False
+1050,0,CD Marathon,False
+1062,0,Atletico-MG,False
+1063,0,Saint Etienne,False
+1138,0,America de Cali,False
+1147,0,Fortaleza FC,False
+1155,0,Macara,False
+1304,0,Dunkerque,False
+1332,0,FSV Frankfurt,False
+1334,0,Bristol Rovers,False
+1335,0,Charlton,False
+1336,0,Fleetwood Town,False
+1337,0,Northampton,False
+1338,0,Oxford United,False
+1339,0,Rochdale,False
+1340,0,Scunthorpe,False
+1341,0,Southend,False
+1342,0,Walsall,False
+1343,0,Bradford,False
+1344,0,Bury,False
+1345,0,Chesterfield,False
+1346,0,Coventry,False
+1348,0,Milton Keynes Dons,False
+1349,0,Oldham,False
+1351,0,Port Vale,False
+1352,0,Shrewsbury,False
+1353,0,Swindon Town,False
+1354,0,Doncaster,False
+1355,0,Portsmouth,False
+1356,0,Blackpool,False
+1357,0,Plymouth,False
+1358,0,Wycombe,False
+1359,0,Luton,False
+1360,0,Accrington ST,False
+1362,0,Crawley Town,False
+1363,0,Crewe,False
+1367,0,Newport County,False
+1371,0,Carlisle,False
+1372,0,Cheltenham,False
+1373,0,Leyton Orient,False
+1375,0,Morecambe,False
+1376,0,Notts County,False
+1377,0,Yeovil Town,False
+1378,0,Forest Green,False
+1379,0,Lincoln,False
+1380,0,Macclesfield,False
+1381,0,Tranmere,False
+1386,0,Dundee Utd,False
+1430,0,Arda Kardzhali,False
+1596,0,San Jose Earthquakes,False
+1603,0,Vancouver Whitecaps,False
+1606,0,Real Salt Lake,False
+1819,0,Barrow,False
+1820,0,Chester,False
+1821,0,Dagenham & Redbridge,False
+1837,0,Wrexham,False
+1920,0,Sevilla W,False
+1984,0,Deportivo Quito,False
+2070,0,Viborg,False
+2080,0,Haka,False
+2261,0,Luftetari Gjirokaster,False
+2290,0,Club Queretaro,False
+2313,0,Correcaminos Uat,False
+2327,0,Antofagasta,False
+2328,0,Huachipato,False
+2347,0,SUD America,False
+2354,0,Rampla Juniors,False
+2356,0,Club Nacional,False
+2362,0,Cerro,False
+2364,0,Atenas,False
+2367,0,Cerrito,False
+2368,0,Central Espanol,False
+2369,0,Cerro Largo,False
+2373,0,Miramar,False
+2374,0,Tacuarembo,False
+2375,0,Canadian,False
+2395,0,Szombathelyi Haladas,False
+2396,0,MTK Budapest,False
+2870,0,Shabab Al Ahli Dubai,False
+2929,0,Al-Ahli Jeddah,False
+2934,0,Al-Ettifaq,False
+2938,0,Al-Ittihad FC,False
+3402,0,Omonia Nicosia,False
+3480,0,Pune City,False
+3843,0,St Patrick's Athl.,False
+4248,0,Radomiak Radom,False
+4686,0,Stockport County,False
+4909,0,Airbus UK,False
+5049,0,Kavala,False
+7693,0,Ashton United,False
+7749,0,Stalybridge Celtic,False
+9410,0,Recreativo Huelva,False
+9588,0,Salamanca UDS,False
+11932,0,Hereford United,False
+12260,0,Atromitos,False
+13188,0,San Antonio Scorpions,False
+15380,0,Liverpool U18,False

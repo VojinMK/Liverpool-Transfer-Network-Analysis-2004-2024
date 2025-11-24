@@ -1,0 +1,266 @@
+club_id,club_name
+34,Newcastle
+35,Bournemouth
+36,Fulham
+37,Huddersfield
+38,Watford
+39,Wolves
+40,Liverpool
+41,Southampton
+42,Arsenal
+43,Cardiff
+44,Burnley
+46,Leicester
+47,Tottenham
+48,West Ham
+49,Chelsea
+50,Manchester City
+51,Brighton
+52,Crystal Palace
+53,Reading
+54,Birmingham
+55,Brentford
+56,Bristol City
+58,Millwall
+59,Preston
+60,West Brom
+61,Wigan
+62,Sheffield Utd
+63,Leeds
+64,Hull City
+65,Nottingham Forest
+66,Aston Villa
+67,Blackburn
+68,Bolton
+69,Derby
+70,Middlesbrough
+71,Norwich
+72,QPR
+73,Rotherham
+74,Sheffield Wednesday
+75,Stoke City
+76,Swansea
+78,Bordeaux
+79,Lille
+80,Lyon
+84,Nice
+85,Paris Saint Germain
+87,Amiens
+91,Monaco
+93,Reims
+94,Rennes
+110,Estac Troyes
+116,Lens
+121,Palmeiras
+124,Fluminense
+130,Gremio
+157,Bayern Munich
+158,Fortuna Dusseldorf
+159,Hertha BSC
+160,SC Freiburg
+161,VfL Wolfsburg
+162,Werder Bremen
+164,FSV Mainz 05
+165,Borussia Dortmund
+167,1899 Hoffenheim
+168,Bayer Leverkusen
+170,FC Augsburg
+172,VfB Stuttgart
+173,RB Leipzig
+174,FC Schalke 04
+182,Union Berlin
+193,PEC Zwolle
+194,Ajax
+195,Willem II
+197,PSV Eindhoven
+198,ADO Den Haag
+202,Groningen
+207,Utrecht
+209,Feyenoord
+210,Heerenveen
+211,Benfica
+212,FC Porto
+225,Nacional
+228,Sporting CP
+240,Arouca
+242,Famalicao
+247,Celtic
+248,Hamilton Academical
+249,Hibernian
+250,Kilmarnock
+252,Aberdeen
+254,Heart OF Midlothian
+255,Livingston
+257,Rangers
+334,Start
+371,IF Brommapojkarna
+406,Aarhus
+410,GO Ahead Eagles
+415,Twente
+417,Waalwijk
+424,Helmond Sport
+435,River Plate
+446,Lanus
+449,Banfield
+451,Boca Juniors
+452,Tigre
+457,Newells Old Boys
+487,Lazio
+489,AC Milan
+490,Cagliari
+492,Napoli
+496,Juventus
+497,AS Roma
+498,Sampdoria
+500,Bologna
+505,Inter
+509,Cesena
+513,Novara
+529,Barcelona
+530,Atletico Madrid
+531,Athletic Club
+532,Valencia
+533,Villarreal
+535,Malaga
+536,Sevilla
+538,Celta Vigo
+539,Levante
+541,Real Madrid
+542,Alaves
+543,Real Betis
+544,Deportivo La Coruna
+545,Eibar
+548,Real Sociedad
+549,Besiktas
+551,FC Basel 1893
+553,Olympiakos Piraeus
+554,Anderlecht
+569,Club Brugge KV
+571,Red Bull Salzburg
+575,AEK Athens FC
+596,Zenit Saint Petersburg
+598,FK Crvena Zvezda
+601,Austria Vienna
+611,Fenerbahce
+617,Panathinaikos
+622,Panionios
+637,Sturm Graz
+644,FC Luzern
+646,Levski Sofia
+689,SJK
+711,Alcorcon
+715,Granada CF
+722,Albacete
+723,Almeria
+726,Huesca
+728,Rayo Vallecano
+732,Zaragoza
+733,Standard Liege
+735,St. Truiden
+741,Cercle Brugge
+742,Genk
+743,Royal Excel Mouscron
+746,Sunderland
+747,Barnsley
+748,Burton Albion
+854,Slavia Sofia
+860,Extremadura
+901,Partick
+940,Perth Glory
+998,Trabzonspor
+1050,CD Marathon
+1062,Atletico-MG
+1063,Saint Etienne
+1138,America de Cali
+1147,Fortaleza FC
+1155,Macara
+1304,Dunkerque
+1332,FSV Frankfurt
+1334,Bristol Rovers
+1335,Charlton
+1336,Fleetwood Town
+1337,Northampton
+1338,Oxford United
+1339,Rochdale
+1340,Scunthorpe
+1341,Southend
+1342,Walsall
+1343,Bradford
+1344,Bury
+1345,Chesterfield
+1346,Coventry
+1348,Milton Keynes Dons
+1349,Oldham
+1351,Port Vale
+1352,Shrewsbury
+1353,Swindon Town
+1354,Doncaster
+1355,Portsmouth
+1356,Blackpool
+1357,Plymouth
+1358,Wycombe
+1359,Luton
+1360,Accrington ST
+1362,Crawley Town
+1363,Crewe
+1367,Newport County
+1371,Carlisle
+1372,Cheltenham
+1373,Leyton Orient
+1375,Morecambe
+1376,Notts County
+1377,Yeovil Town
+1378,Forest Green
+1379,Lincoln
+1380,Macclesfield
+1381,Tranmere
+1386,Dundee Utd
+1430,Arda Kardzhali
+1596,San Jose Earthquakes
+1603,Vancouver Whitecaps
+1606,Real Salt Lake
+1819,Barrow
+1820,Chester
+1821,Dagenham & Redbridge
+1837,Wrexham
+1920,Sevilla W
+1984,Deportivo Quito
+2070,Viborg
+2080,Haka
+2261,Luftetari Gjirokaster
+2290,Club Queretaro
+2313,Correcaminos Uat
+2327,Antofagasta
+2328,Huachipato
+2347,SUD America
+2354,Rampla Juniors
+2356,Club Nacional
+2362,Cerro
+2364,Atenas
+2367,Cerrito
+2368,Central Espanol
+2369,Cerro Largo
+2373,Miramar
+2374,Tacuarembo
+2375,Canadian
+2395,Szombathelyi Haladas
+2396,MTK Budapest
+2870,Shabab Al Ahli Dubai
+2929,Al-Ahli Jeddah
+2934,Al-Ettifaq
+2938,Al-Ittihad FC
+3402,Omonia Nicosia
+3480,Pune City
+3843,St Patrick's Athl.
+4248,Radomiak Radom
+4686,Stockport County
+4909,Airbus UK
+5049,Kavala
+7693,Ashton United
+7749,Stalybridge Celtic
+9410,Recreativo Huelva
+9588,Salamanca UDS
+11932,Hereford United
+12260,Atromitos
+13188,San Antonio Scorpions
+15380,Liverpool U18

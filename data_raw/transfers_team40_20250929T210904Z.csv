@@ -1,0 +1,785 @@
+player_id,player_name,api_record_updated_at,transfer_date_raw,transfer_type_raw,destination_team_id,destination_team_name,destination_team_logo,source_team_id,source_team_name,source_team_logo
+1560,Barragán,2023-09-01T21:55:00+00:00,2006-08-01,€ 2.5M,544.0,Deportivo La Coruna,https://media.api-sports.io/football/teams/544.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1560,Barragán,2023-09-01T21:55:00+00:00,2005-08-01,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1920.0,Sevilla W,https://media.api-sports.io/football/teams/1920.png
+298,Rafael Camacho,2023-09-02T07:35:57+00:00,2019-07-01,N/A,228.0,Sporting CP,https://media.api-sports.io/football/teams/228.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+47411,N. El Zhar,2023-09-02T07:49:01+00:00,2011-08-18,N/A,539.0,Levante,https://media.api-sports.io/football/teams/539.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+117334,Henoc Mukendi,2023-09-02T20:34:09+00:00,2014-07-01,Free,7693.0,Ashton United,https://media.api-sports.io/football/teams/7693.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+117334,Henoc Mukendi,2023-09-02T20:34:09+00:00,2013-07-19,Loan,901.0,Partick,https://media.api-sports.io/football/teams/901.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+117334,Henoc Mukendi,2023-09-02T20:34:09+00:00,2012-12-24,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1337.0,Northampton,https://media.api-sports.io/football/teams/1337.png
+117334,Henoc Mukendi,2023-09-02T20:34:09+00:00,2012-08-08,Loan,1337.0,Northampton,https://media.api-sports.io/football/teams/1337.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20999,Rafa Páez,2023-09-05T17:47:45+00:00,2015-01-30,Loan,545.0,Eibar,https://media.api-sports.io/football/teams/545.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20999,Rafa Páez,2023-09-05T17:47:45+00:00,2014-08-07,Loan,500.0,Bologna,https://media.api-sports.io/football/teams/500.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+103332,M. Pelosi,2023-09-05T20:29:46+00:00,2015-07-19,N/A,1596.0,San Jose Earthquakes,https://media.api-sports.io/football/teams/1596.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82878,T. Belford,2023-09-06T04:29:40+00:00,2013-07-31,Free,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51696,Diego Ismael Ferreira Villa,2023-09-06T05:10:17+00:00,2015-07-16,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2327.0,Antofagasta,https://media.api-sports.io/football/teams/2327.png
+102074,Luis Alberto Torrecilla Michelle,2023-09-06T05:11:12+00:00,2017-03-21,Free,2375.0,Canadian,https://media.api-sports.io/football/teams/2375.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+102074,Luis Alberto Torrecilla Michelle,2023-09-06T05:11:12+00:00,2016-01-05,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,435.0,River Plate,https://media.api-sports.io/football/teams/435.png
+227206,Sergio Esteban Bica Suárez,2023-09-06T05:11:16+00:00,2015-07-29,Free,2374.0,Tacuarembo,https://media.api-sports.io/football/teams/2374.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+227206,Sergio Esteban Bica Suárez,2023-09-06T05:11:16+00:00,2014-07-26,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1050.0,CD Marathon,https://media.api-sports.io/football/teams/1050.png
+51881,Cristian Martín Rodríguez Telis,2023-09-06T05:27:50+00:00,2015-07-20,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2374.0,Tacuarembo,https://media.api-sports.io/football/teams/2374.png
+109116,Diego Emanuel González Pereyra,2023-09-06T05:37:49+00:00,2012-01-01,Free,1155.0,Macara,https://media.api-sports.io/football/teams/1155.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+101859,Pablo César Pintos Cabral,2023-09-06T05:41:58+00:00,2017-02-15,Free,2362.0,Cerro,https://media.api-sports.io/football/teams/2362.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+101859,Pablo César Pintos Cabral,2023-09-06T05:41:58+00:00,2016-02-29,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1596.0,San Jose Earthquakes,https://media.api-sports.io/football/teams/1596.png
+19629,D. Martin,2023-09-06T06:07:12+00:00,2008-08-01,Loan,46.0,Leicester,https://media.api-sports.io/football/teams/46.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19629,D. Martin,2023-09-06T06:07:12+00:00,2007-05-06,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1360.0,Accrington ST,https://media.api-sports.io/football/teams/1360.png
+20399,Paul Anderson,2023-09-06T06:09:58+00:00,2007-08-01,Loan,76.0,Swansea,https://media.api-sports.io/football/teams/76.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82591,David Haydn Raven,2023-09-06T06:10:09+00:00,2008-08-09,Free,1371.0,Carlisle,https://media.api-sports.io/football/teams/1371.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+105175,Damien Plessis,2023-09-06T06:49:00+00:00,2010-08-31,800K €,617.0,Panathinaikos,https://media.api-sports.io/football/teams/617.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+105175,Damien Plessis,2023-09-06T06:49:00+00:00,2007-08-08,500K €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,80.0,Lyon,https://media.api-sports.io/football/teams/80.png
+3639,Michael Ayodeji Ngoo,2023-09-06T06:50:37+00:00,2014-08-15,Free,250.0,Kilmarnock,https://media.api-sports.io/football/teams/250.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+3639,Michael Ayodeji Ngoo,2023-09-06T06:50:37+00:00,2014-01-31,Loan,1342.0,Walsall,https://media.api-sports.io/football/teams/1342.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+3639,Michael Ayodeji Ngoo,2023-09-06T06:50:37+00:00,2013-09-29,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1377.0,Yeovil Town,https://media.api-sports.io/football/teams/1377.png
+3639,Michael Ayodeji Ngoo,2023-09-06T06:50:37+00:00,2013-07-10,Loan,1377.0,Yeovil Town,https://media.api-sports.io/football/teams/1377.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+3639,Michael Ayodeji Ngoo,2023-09-06T06:50:37+00:00,2013-01-26,Loan,254.0,Heart OF Midlothian,https://media.api-sports.io/football/teams/254.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+113811,D. Traoré,2023-09-06T07:31:54+00:00,2006-07-01,€ 2.8M,1335.0,Charlton,https://media.api-sports.io/football/teams/1335.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+113811,D. Traoré,2023-09-06T07:31:54+00:00,2001-07-01,Loan,116.0,Lens,https://media.api-sports.io/football/teams/116.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+113811,D. Traoré,2023-09-06T07:31:54+00:00,1999-07-01,€ 800K,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,433.0,Laval,https://media.api-sports.io/football/teams/433.png
+20731,Anthony Le Tallec,2023-09-06T07:34:34+00:00,2005-08-01,Loan,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20731,Anthony Le Tallec,2023-09-06T07:34:34+00:00,2005-01-27,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1063.0,Saint Etienne,https://media.api-sports.io/football/teams/1063.png
+20731,Anthony Le Tallec,2023-09-06T07:34:34+00:00,2004-08-01,Loan,1063.0,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20731,Anthony Le Tallec,2023-09-06T07:34:34+00:00,2003-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,111.0,LE Havre,https://media.api-sports.io/football/teams/111.png
+20731,Anthony Le Tallec,2023-09-06T07:34:34+00:00,2001-08-01,Loan,111.0,LE Havre,https://media.api-sports.io/football/teams/111.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20731,Anthony Le Tallec,2023-09-06T07:34:34+00:00,2001-07-01,€ 2.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,111.0,LE Havre,https://media.api-sports.io/football/teams/111.png
+14479,Madger Antonio Gomes Ajú,2023-09-06T08:47:49+00:00,2014-09-03,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,533.0,Villarreal,https://media.api-sports.io/football/teams/533.png
+101893,Elías Ricardo Figueroa Silva,2023-09-06T20:13:14+00:00,2013-08-07,Free,2328.0,Huachipato,https://media.api-sports.io/football/teams/2328.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+52066,Víctor Emiliano Aparicio Gutiérrez,2023-09-06T20:16:08+00:00,2015-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2367.0,Cerrito,https://media.api-sports.io/football/teams/2367.png
+114902,S. Kyrgiakos,2023-09-06T20:48:40+00:00,2011-08-23,Free,161.0,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+114902,S. Kyrgiakos,2023-09-06T20:48:40+00:00,2009-08-18,€ 3M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,575.0,AEK Athens FC,https://media.api-sports.io/football/teams/575.png
+51410,Clever Elías Quintana Alonzo,2023-09-06T20:48:52+00:00,2019-01-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2373.0,Miramar,https://media.api-sports.io/football/teams/2373.png
+51410,Clever Elías Quintana Alonzo,2023-09-06T20:48:52+00:00,2017-07-28,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2369.0,Cerro Largo,https://media.api-sports.io/football/teams/2369.png
+106805,Y. Benayoun,2023-09-06T21:49:07+00:00,2010-07-02,€ 7M,49.0,Chelsea,https://media.api-sports.io/football/teams/49.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+106805,Y. Benayoun,2023-09-06T21:49:07+00:00,2007-07-01,€ 7.3M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,48.0,West Ham,https://media.api-sports.io/football/teams/48.png
+101854,Álvaro Maximiliano Arias Invernizzi,2023-09-06T22:55:41+00:00,2017-01-05,Free €,435.0,River Plate,https://media.api-sports.io/football/teams/435.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+101854,Álvaro Maximiliano Arias Invernizzi,2023-09-06T22:55:41+00:00,2016-07-04,Free €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2347.0,SUD America,https://media.api-sports.io/football/teams/2347.png
+101854,Álvaro Maximiliano Arias Invernizzi,2023-09-06T22:55:41+00:00,2013-01-01,N/A,2290.0,Club Queretaro,https://media.api-sports.io/football/teams/2290.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+101854,Álvaro Maximiliano Arias Invernizzi,2023-09-06T22:55:41+00:00,2012-08-13,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2290.0,Club Queretaro,https://media.api-sports.io/football/teams/2290.png
+27558,Caue Fernandes Silveira,2023-09-06T22:56:32+00:00,2014-07-01,N/A,225.0,Nacional,https://media.api-sports.io/football/teams/225.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+27558,Caue Fernandes Silveira,2023-09-06T22:56:32+00:00,2014-01-17,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,225.0,Nacional,https://media.api-sports.io/football/teams/225.png
+74635,Bruno Nicolás Toledo Dante,2023-09-06T23:14:58+00:00,2017-08-21,Free,2261.0,Luftetari Gjirokaster,https://media.api-sports.io/football/teams/2261.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+243083,Christian Leonel Rodríguez Fleitas,2023-09-07T00:47:45+00:00,050417,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2374.0,Tacuarembo,https://media.api-sports.io/football/teams/2374.png
+102004,Pablo Andrés Pereira Errandonea,2023-09-07T01:32:11+00:00,2017-02-13,Free,2373.0,Miramar,https://media.api-sports.io/football/teams/2373.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+102004,Pablo Andrés Pereira Errandonea,2023-09-07T01:32:11+00:00,2016-01-04,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2354.0,Rampla Juniors,https://media.api-sports.io/football/teams/2354.png
+102004,Pablo Andrés Pereira Errandonea,2023-09-07T01:32:11+00:00,2012-07-01,Free,2313.0,Correcaminos Uat,https://media.api-sports.io/football/teams/2313.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+102004,Pablo Andrés Pereira Errandonea,2023-09-07T01:32:11+00:00,2011-08-11,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2368.0,Central Espanol,https://media.api-sports.io/football/teams/2368.png
+102060,Nicolás Andrés Schenone Paz de Olivera,2023-09-07T01:47:47+00:00,2013-09-03,Free,542.0,Alaves,https://media.api-sports.io/football/teams/542.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+102060,Nicolás Andrés Schenone Paz de Olivera,2023-09-07T01:47:47+00:00,2013-02-18,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1138.0,America de Cali,https://media.api-sports.io/football/teams/1138.png
+90521,Álvaro Arbeloa Coca,2023-09-07T02:07:29+00:00,290709,4M €,541.0,Real Madrid,https://media.api-sports.io/football/teams/541.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+90657,Xabier Alonso Olano,2023-09-07T02:09:16+00:00,050809,35.4M €,541.0,Real Madrid,https://media.api-sports.io/football/teams/541.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+90657,Xabier Alonso Olano,2023-09-07T02:09:16+00:00,200804,16M €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,548.0,Real Sociedad,https://media.api-sports.io/football/teams/548.png
+93990,Dirk Kuijt,2023-09-07T02:10:17+00:00,010712,1M €,611.0,Fenerbahce,https://media.api-sports.io/football/teams/611.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+93990,Dirk Kuijt,2023-09-07T02:10:17+00:00,190806,18M €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,209.0,Feyenoord,https://media.api-sports.io/football/teams/209.png
+36846,Oussama Assaidi,2023-09-07T02:10:48+00:00,2015-01-12,5M €,2870.0,Shabab Al Ahli Dubai,https://media.api-sports.io/football/teams/2870.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+36846,Oussama Assaidi,2023-09-07T02:10:48+00:00,2014-09-01,Loan,75.0,Stoke City,https://media.api-sports.io/football/teams/75.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+36846,Oussama Assaidi,2023-09-07T02:10:48+00:00,2014-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,75.0,Stoke City,https://media.api-sports.io/football/teams/75.png
+36846,Oussama Assaidi,2023-09-07T02:10:48+00:00,2013-08-27,Loan,75.0,Stoke City,https://media.api-sports.io/football/teams/75.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+36846,Oussama Assaidi,2023-09-07T02:10:48+00:00,2012-08-20,3.8M €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,210.0,Heerenveen,https://media.api-sports.io/football/teams/210.png
+116324,Jordy Brouwer,2023-09-07T02:11:18+00:00,2011-01-03,Free,198.0,ADO Den Haag,https://media.api-sports.io/football/teams/198.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+116324,Jordy Brouwer,2023-09-07T02:11:18+00:00,2009-01-26,Loan,417.0,Waalwijk,https://media.api-sports.io/football/teams/417.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+114211,M. Jovanović,2023-09-07T02:12:08+00:00,2011-08-02,€ 800K,554.0,Anderlecht,https://media.api-sports.io/football/teams/554.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+114211,M. Jovanović,2023-09-07T02:12:08+00:00,2010-07-01,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,733.0,Standard Liege,https://media.api-sports.io/football/teams/733.png
+115076,P. Degen,2023-09-07T02:12:48+00:00,2011-11-01,Free,551.0,FC Basel 1893,https://media.api-sports.io/football/teams/551.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+115076,P. Degen,2023-09-07T02:12:48+00:00,2010-08-08,Loan,172.0,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+115076,P. Degen,2023-09-07T02:12:48+00:00,2008-07-01,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,165.0,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png
+47288,Mikel San José Domínguez,2023-09-07T02:18:13+00:00,2010-07-01,€ 2.7M,531.0,Athletic Club,https://media.api-sports.io/football/teams/531.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+47288,Mikel San José Domínguez,2023-09-07T02:18:13+00:00,2010-06-30,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,531.0,Athletic Club,https://media.api-sports.io/football/teams/531.png
+47288,Mikel San José Domínguez,2023-09-07T02:18:13+00:00,2009-08-14,Loan,531.0,Athletic Club,https://media.api-sports.io/football/teams/531.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+12774,G. Paletta,2023-09-07T02:23:51+00:00,2007-09-01,N/A,451.0,Boca Juniors,https://media.api-sports.io/football/teams/451.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+12774,G. Paletta,2023-09-07T02:23:51+00:00,2006-07-01,€ 2.7M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,449.0,Banfield,https://media.api-sports.io/football/teams/449.png
+91451,Alberto Aquilani,2023-09-07T02:25:32+00:00,2010-08-21,Loan,496.0,Juventus,https://media.api-sports.io/football/teams/496.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+91451,Alberto Aquilani,2023-09-07T02:25:32+00:00,2009-08-05,20M €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,497.0,AS Roma,https://media.api-sports.io/football/teams/497.png
+101831,Maximiliano Felipe Montero Rodríguez,2023-09-07T02:40:32+00:00,2013-02-22,Loan,2369.0,Cerro Largo,https://media.api-sports.io/football/teams/2369.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+101831,Maximiliano Felipe Montero Rodríguez,2023-09-07T02:40:32+00:00,2012-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,452.0,Tigre,https://media.api-sports.io/football/teams/452.png
+101831,Maximiliano Felipe Montero Rodríguez,2023-09-07T02:40:32+00:00,2011-07-28,Loan,452.0,Tigre,https://media.api-sports.io/football/teams/452.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+27530,Fernando Martín Bonjour,2023-09-07T03:04:45+00:00,2014-01-03,N/A,1984.0,Deportivo Quito,https://media.api-sports.io/football/teams/1984.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+27530,Fernando Martín Bonjour,2023-09-07T03:04:45+00:00,2013-01-22,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1603.0,Vancouver Whitecaps,https://media.api-sports.io/football/teams/1603.png
+27530,Fernando Martín Bonjour,2023-09-07T03:04:45+00:00,2011-07-01,N/A,2354.0,Rampla Juniors,https://media.api-sports.io/football/teams/2354.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+27530,Fernando Martín Bonjour,2023-09-07T03:04:45+00:00,2011-01-24,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2354.0,Rampla Juniors,https://media.api-sports.io/football/teams/2354.png
+105424,Robbie Keane,2023-09-07T03:21:11+00:00,2009-02-02,16.7M €,47.0,Tottenham,https://media.api-sports.io/football/teams/47.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+105424,Robbie Keane,2023-09-07T03:21:11+00:00,2008-07-01,24M €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,47.0,Tottenham,https://media.api-sports.io/football/teams/47.png
+114787,J. Riise,2023-09-07T03:23:41+00:00,2008-08-01,€ 5M,497.0,AS Roma,https://media.api-sports.io/football/teams/497.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+114787,J. Riise,2023-09-07T03:23:41+00:00,2001-08-01,€ 6.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,91.0,Monaco,https://media.api-sports.io/football/teams/91.png
+105044,José Enrique,2023-09-07T03:24:20+00:00,2016-09-07,Free,732.0,Zaragoza,https://media.api-sports.io/football/teams/732.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+105044,José Enrique,2023-09-07T03:24:20+00:00,2011-08-12,€ 8M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,34.0,Newcastle,https://media.api-sports.io/football/teams/34.png
+115962,E. Diouf,2023-09-07T03:32:46+00:00,2004-08-01,€ 4.8M,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+115962,E. Diouf,2023-09-07T03:32:46+00:00,2002-08-17,€ 15M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,116.0,Lens,https://media.api-sports.io/football/teams/116.png
+20126,J. Sinclair,2023-09-07T03:35:17+00:00,2016-07-01,Free,38.0,Watford,https://media.api-sports.io/football/teams/38.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20126,J. Sinclair,2023-09-07T03:35:17+00:00,2015-05-10,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,61.0,Wigan,https://media.api-sports.io/football/teams/61.png
+20126,J. Sinclair,2023-09-07T03:35:17+00:00,2015-03-16,Loan,61.0,Wigan,https://media.api-sports.io/football/teams/61.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+91248,S. Leto,2023-09-07T03:38:48+00:00,2008-07-01,€ 750K,553.0,Olympiakos Piraeus,https://media.api-sports.io/football/teams/553.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+91248,S. Leto,2023-09-07T03:38:48+00:00,2007-08-08,€ 3M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,446.0,Lanus,https://media.api-sports.io/football/teams/446.png
+83021,Danny Sean Guthrie,2023-09-07T03:39:51+00:00,2008-08-01,€ 4.3M,34.0,Newcastle,https://media.api-sports.io/football/teams/34.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+83021,Danny Sean Guthrie,2023-09-07T03:39:51+00:00,2007-08-01,Loan,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+83021,Danny Sean Guthrie,2023-09-07T03:39:51+00:00,2007-03-03,Loan,41.0,Southampton,https://media.api-sports.io/football/teams/41.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+106798,N. Eccleston,2023-09-07T03:42:09+00:00,2012-08-31,Free,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+106798,N. Eccleston,2023-09-07T03:42:09+00:00,2011-10-20,Loan,1339.0,Rochdale,https://media.api-sports.io/football/teams/1339.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+106798,N. Eccleston,2023-09-07T03:42:09+00:00,2011-01-13,Loan,1335.0,Charlton,https://media.api-sports.io/football/teams/1335.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+106798,N. Eccleston,2023-09-07T03:42:09+00:00,2010-01-28,Loan,37.0,Huddersfield,https://media.api-sports.io/football/teams/37.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+33413,Fernando Torres,2023-09-07T03:41:59+00:00,2011-02-01,€ 58.5M,49.0,Chelsea,https://media.api-sports.io/football/teams/49.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+33413,Fernando Torres,2023-09-07T03:41:59+00:00,2007-07-04,€ 38M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,530.0,Atletico Madrid,https://media.api-sports.io/football/teams/530.png
+19501,Charles Graham Adam,2023-09-07T03:43:09+00:00,2012-08-31,€ 6.2M,75.0,Stoke City,https://media.api-sports.io/football/teams/75.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19501,Charles Graham Adam,2023-09-07T03:43:09+00:00,2011-07-06,€ 8.4M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png
+19425,K. Stewart,2023-09-07T03:43:34+00:00,2017-07-21,N/A,64.0,Hull City,https://media.api-sports.io/football/teams/64.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19425,K. Stewart,2023-09-07T03:43:34+00:00,2016-01-08,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png
+19425,K. Stewart,2023-09-07T03:43:34+00:00,2015-07-20,Loan,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19425,K. Stewart,2023-09-07T03:43:34+00:00,2015-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,748.0,Burton Albion,https://media.api-sports.io/football/teams/748.png
+19425,K. Stewart,2023-09-07T03:43:34+00:00,2015-03-26,Loan,748.0,Burton Albion,https://media.api-sports.io/football/teams/748.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19425,K. Stewart,2023-09-07T03:43:34+00:00,2015-02-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1372.0,Cheltenham,https://media.api-sports.io/football/teams/1372.png
+19425,K. Stewart,2023-09-07T03:43:34+00:00,2015-01-01,Loan,1372.0,Cheltenham,https://media.api-sports.io/football/teams/1372.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19425,K. Stewart,2023-09-07T03:43:34+00:00,2014-07-02,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,47.0,Tottenham,https://media.api-sports.io/football/teams/47.png
+17887,Joseph Maguire,2023-09-07T04:27:09+00:00,2017-01-13,N/A,1336.0,Fleetwood Town,https://media.api-sports.io/football/teams/1336.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+17887,Joseph Maguire,2023-09-07T04:27:09+00:00,2016-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1373.0,Leyton Orient,https://media.api-sports.io/football/teams/1373.png
+17887,Joseph Maguire,2023-09-07T04:27:09+00:00,2015-08-28,Loan,1373.0,Leyton Orient,https://media.api-sports.io/football/teams/1373.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+114783,Andrea Dossena,2023-09-07T04:40:59+00:00,040110,3.8M €,492.0,Napoli,https://media.api-sports.io/football/teams/492.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+114783,Andrea Dossena,2023-09-07T04:40:59+00:00,010708,9M €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,494.0,Udinese,https://media.api-sports.io/football/teams/494.png
+1350,Martin Škrtel,2023-09-07T05:21:52+00:00,2016-07-21,€ 6M,611.0,Fenerbahce,https://media.api-sports.io/football/teams/611.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1350,Martin Škrtel,2023-09-07T05:21:52+00:00,2008-01-08,€ 10M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,596.0,Zenit Saint Petersburg,https://media.api-sports.io/football/teams/596.png
+231343,J. Otsemobor,2023-09-07T05:28:44+00:00,2005-08-01,Free,73.0,Rotherham,https://media.api-sports.io/football/teams/73.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+231343,J. Otsemobor,2023-09-07T05:28:44+00:00,2004-08-01,Loan,1363.0,Crewe,https://media.api-sports.io/football/teams/1363.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+231343,J. Otsemobor,2023-09-07T05:28:44+00:00,2004-02-02,Loan,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+231343,J. Otsemobor,2023-09-07T05:28:44+00:00,2003-03-01,Loan,64.0,Hull City,https://media.api-sports.io/football/teams/64.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82105,Stephen Darby,2023-09-07T05:29:53+00:00,2012-07-05,Free,1343.0,Bradford,https://media.api-sports.io/football/teams/1343.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82105,Stephen Darby,2023-09-07T05:29:53+00:00,2011-07-08,Loan,1339.0,Rochdale,https://media.api-sports.io/football/teams/1339.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82105,Stephen Darby,2023-09-07T05:29:53+00:00,2010-10-01,Loan,1376.0,Notts County,https://media.api-sports.io/football/teams/1376.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82105,Stephen Darby,2023-09-07T05:29:53+00:00,2010-02-13,Loan,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+28434,D. N&apos;Gog,2023-09-07T05:30:44+00:00,2011-08-31,€ 4.5M,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+28434,D. N&apos;Gog,2023-09-07T05:30:44+00:00,2008-07-01,€ 1.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,85.0,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png
+44827,Á. Bogdán,2023-09-07T05:32:36+00:00,2017-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,61.0,Wigan,https://media.api-sports.io/football/teams/61.png
+44827,Á. Bogdán,2023-09-07T05:32:36+00:00,2016-07-20,Loan,61.0,Wigan,https://media.api-sports.io/football/teams/61.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+44827,Á. Bogdán,2023-09-07T05:32:36+00:00,2015-07-01,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,68.0,Bolton,https://media.api-sports.io/football/teams/68.png
+6353,M. Rodríguez,2023-09-07T05:45:01+00:00,2012-07-13,Free,457.0,Newells Old Boys,https://media.api-sports.io/football/teams/457.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+6353,M. Rodríguez,2023-09-07T05:45:01+00:00,2010-01-13,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,530.0,Atletico Madrid,https://media.api-sports.io/football/teams/530.png
+13073,J. Mascherano,2023-09-07T05:50:18+00:00,2010-08-29,€ 20M,529.0,Barcelona,https://media.api-sports.io/football/teams/529.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+13073,J. Mascherano,2023-09-07T05:50:18+00:00,2007-02-01,€ 22.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,48.0,West Ham,https://media.api-sports.io/football/teams/48.png
+36818,V. Weijl,2023-09-07T06:06:01+00:00,2010-08-31,Free,545.0,Eibar,https://media.api-sports.io/football/teams/545.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+36818,V. Weijl,2023-09-07T06:06:01+00:00,2010-02-01,Loan,424.0,Helmond Sport,https://media.api-sports.io/football/teams/424.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+44297,B. Jones,2023-09-07T06:10:23+00:00,2015-08-17,Free,1343.0,Bradford,https://media.api-sports.io/football/teams/1343.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+44297,B. Jones,2023-09-07T06:10:23+00:00,2011-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,69.0,Derby,https://media.api-sports.io/football/teams/69.png
+44297,B. Jones,2023-09-07T06:10:23+00:00,2011-03-24,Loan,69.0,Derby,https://media.api-sports.io/football/teams/69.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+44297,B. Jones,2023-09-07T06:10:23+00:00,2010-08-16,€ 2.8M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,70.0,Middlesbrough,https://media.api-sports.io/football/teams/70.png
+25325,N. Şahin,2023-09-07T08:10:39+00:00,2012-08-25,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,541.0,Real Madrid,https://media.api-sports.io/football/teams/541.png
+10045,Diego Cavalieri,2023-09-07T08:13:01+00:00,2010-08-20,Free,509.0,Cesena,https://media.api-sports.io/football/teams/509.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+10045,Diego Cavalieri,2023-09-07T08:13:01+00:00,2008-07-12,€ 4.4M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,121.0,Palmeiras,https://media.api-sports.io/football/teams/121.png
+1858,Lucas Leiva,2023-09-07T08:15:01+00:00,2017-07-18,€ 5.7M,487.0,Lazio,https://media.api-sports.io/football/teams/487.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1858,Lucas Leiva,2023-09-07T08:15:01+00:00,2007-07-01,€ 10M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,130.0,Gremio,https://media.api-sports.io/football/teams/130.png
+102202,Antonio Nicolás Fernández Mozzo,2023-09-07T08:37:06+00:00,250712,Free,2353.0,Juventud,https://media.api-sports.io/football/teams/2353.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+37256,Stephen Sama,2023-09-07T09:18:46+00:00,2014-09-02,Free,172.0,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+12313,Mark Dennis González Hoffmann,2023-09-07T09:30:32+00:00,2007-07-01,€ 6M,543.0,Real Betis,https://media.api-sports.io/football/teams/543.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+12313,Mark Dennis González Hoffmann,2023-09-07T09:30:32+00:00,2006-02-01,Loan,548.0,Real Sociedad,https://media.api-sports.io/football/teams/548.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+12313,Mark Dennis González Hoffmann,2023-09-07T09:30:32+00:00,2006-01-01,€ 2.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,722.0,Albacete,https://media.api-sports.io/football/teams/722.png
+231846,C. Roddan,2023-09-07T09:51:06+00:00,2014-11-07,Free,1360.0,Accrington ST,https://media.api-sports.io/football/teams/1360.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+231846,C. Roddan,2023-09-07T09:51:06+00:00,2014-01-06,Loan,1360.0,Accrington ST,https://media.api-sports.io/football/teams/1360.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+231846,C. Roddan,2023-09-07T09:51:06+00:00,2014-01-05,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1371.0,Carlisle,https://media.api-sports.io/football/teams/1371.png
+231846,C. Roddan,2023-09-07T09:51:06+00:00,2013-11-28,Loan,1371.0,Carlisle,https://media.api-sports.io/football/teams/1371.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+26504,Samed Yeşil,2023-09-07T09:54:15+00:00,2017-01-14,N/A,622.0,Panionios,https://media.api-sports.io/football/teams/622.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+26504,Samed Yeşil,2023-09-07T09:54:15+00:00,2015-08-31,Loan,644.0,FC Luzern,https://media.api-sports.io/football/teams/644.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+26504,Samed Yeşil,2023-09-07T09:54:15+00:00,2012-08-31,€ 1.3M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,168.0,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png
+104129,Kolo Habib Touré,2023-09-07T10:26:01+00:00,240716,Free,247.0,Celtic,https://media.api-sports.io/football/teams/247.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19670,D. Potter,2023-09-07T10:47:58+00:00,2007-01-18,€ 375K,39.0,Wolves,https://media.api-sports.io/football/teams/39.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19670,D. Potter,2023-09-07T10:47:58+00:00,2006-01-26,Loan,41.0,Southampton,https://media.api-sports.io/football/teams/41.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+66078,M. Baroš,2023-09-07T10:57:54+00:00,2005-07-01,€ 8.8M,66.0,Aston Villa,https://media.api-sports.io/football/teams/66.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+66078,M. Baroš,2023-09-07T10:57:54+00:00,2002-01-01,€ 7M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,3713.0,Baník Ostrava,https://media.api-sports.io/football/teams/3713.png
+87877,Jermaine Pennant,2023-09-07T10:58:58+00:00,2009-07-12,Free,732.0,Zaragoza,https://media.api-sports.io/football/teams/732.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87877,Jermaine Pennant,2023-09-07T10:58:58+00:00,2009-01-24,Loan,1355.0,Portsmouth,https://media.api-sports.io/football/teams/1355.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87877,Jermaine Pennant,2023-09-07T10:58:58+00:00,2006-08-01,9.1M €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,54.0,Birmingham,https://media.api-sports.io/football/teams/54.png
+90523,Alexander Manninger,2023-09-07T11:26:51+00:00,220716,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,170.0,FC Augsburg,https://media.api-sports.io/football/teams/170.png
+82488,Adam Joseph Morgan,2023-09-07T11:28:23+00:00,2014-01-03,Free,1377.0,Yeovil Town,https://media.api-sports.io/football/teams/1377.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82488,Adam Joseph Morgan,2023-09-07T11:28:23+00:00,2013-11-28,Loan,1377.0,Yeovil Town,https://media.api-sports.io/football/teams/1377.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82488,Adam Joseph Morgan,2023-09-07T11:28:23+00:00,2013-01-03,Loan,73.0,Rotherham,https://media.api-sports.io/football/teams/73.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1739,Jonathon Patrick Flanagan,2023-09-07T11:39:52+00:00,2018-07-01,Free,257.0,Rangers,https://media.api-sports.io/football/teams/257.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1739,Jonathon Patrick Flanagan,2023-09-07T11:39:52+00:00,2018-01-31,Loan,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1739,Jonathon Patrick Flanagan,2023-09-07T11:39:52+00:00,2017-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,44.0,Burnley,https://media.api-sports.io/football/teams/44.png
+1739,Jonathon Patrick Flanagan,2023-09-07T11:39:52+00:00,2016-08-05,Loan,44.0,Burnley,https://media.api-sports.io/football/teams/44.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87896,P. Konchesky,2023-09-07T11:44:10+00:00,2011-07-13,€ 1.7M,46.0,Leicester,https://media.api-sports.io/football/teams/46.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87896,P. Konchesky,2023-09-07T11:44:10+00:00,2011-01-31,Loan,65.0,Nottingham Forest,https://media.api-sports.io/football/teams/65.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87896,P. Konchesky,2023-09-07T11:44:10+00:00,2010-09-01,€ 4M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,36.0,Fulham,https://media.api-sports.io/football/teams/36.png
+117988,D. James,2023-09-07T11:47:50+00:00,1999-08-01,2.4M €,66.0,Aston Villa,https://media.api-sports.io/football/teams/66.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19238,S. Downing,2023-09-07T11:47:57+00:00,2013-08-13,€ 5.8M,48.0,West Ham,https://media.api-sports.io/football/teams/48.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19238,S. Downing,2023-09-07T11:47:57+00:00,2011-07-16,€ 22.8M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,66.0,Aston Villa,https://media.api-sports.io/football/teams/66.png
+114851,E. Heskey,2023-09-07T11:48:13+00:00,2004-08-01,€ 9.3M,54.0,Birmingham,https://media.api-sports.io/football/teams/54.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+114851,E. Heskey,2023-09-07T11:48:13+00:00,2000-03-15,€ 16.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,46.0,Leicester,https://media.api-sports.io/football/teams/46.png
+114815,M. Owen,2023-09-07T11:48:23+00:00,2004-08-01,€ 12M,541.0,Real Madrid,https://media.api-sports.io/football/teams/541.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+90491,G. Johnson,2023-09-07T11:48:53+00:00,2015-07-12,Free,75.0,Stoke City,https://media.api-sports.io/football/teams/75.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+90491,G. Johnson,2023-09-07T11:48:53+00:00,2009-07-01,€ 20.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1355.0,Portsmouth,https://media.api-sports.io/football/teams/1355.png
+18928,P. Crouch,2023-09-07T11:49:00+00:00,2008-08-01,€ 13.7M,1355.0,Portsmouth,https://media.api-sports.io/football/teams/1355.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18928,P. Crouch,2023-09-07T11:49:00+00:00,2005-07-01,€ 10.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,41.0,Southampton,https://media.api-sports.io/football/teams/41.png
+308,Daniel Andre Sturridge,2023-09-07T11:50:36+00:00,2019-08-21,Free,998.0,Trabzonspor,https://media.api-sports.io/football/teams/998.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+308,Daniel Andre Sturridge,2023-09-07T11:50:36+00:00,2018-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,60.0,West Brom,https://media.api-sports.io/football/teams/60.png
+308,Daniel Andre Sturridge,2023-09-07T11:50:36+00:00,2018-01-29,Loan,60.0,West Brom,https://media.api-sports.io/football/teams/60.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+308,Daniel Andre Sturridge,2023-09-07T11:50:36+00:00,2013-01-02,€ 14M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,49.0,Chelsea,https://media.api-sports.io/football/teams/49.png
+82340,Stephen  Warnock,2023-09-07T11:50:43+00:00,2007-01-01,2.3M €,67.0,Blackburn,https://media.api-sports.io/football/teams/67.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82340,Stephen  Warnock,2023-09-07T11:50:43+00:00,2003-08-01,Loan,1346.0,Coventry,https://media.api-sports.io/football/teams/1346.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82340,Stephen  Warnock,2023-09-07T11:50:43+00:00,2002-09-01,Loan,1343.0,Bradford,https://media.api-sports.io/football/teams/1343.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+102748,J. Cole,2023-09-07T11:50:56+00:00,2013-01-04,Free,48.0,West Ham,https://media.api-sports.io/football/teams/48.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+102748,J. Cole,2023-09-07T11:50:56+00:00,2011-08-31,Loan,79.0,Lille,https://media.api-sports.io/football/teams/79.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+102748,J. Cole,2023-09-07T11:50:56+00:00,2010-07-20,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,49.0,Chelsea,https://media.api-sports.io/football/teams/49.png
+83027,Rickie Lambert,2023-09-07T11:51:15+00:00,010714,5.5M €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,41.0,Southampton,https://media.api-sports.io/football/teams/41.png
+17531,Jamie Stephens,2023-09-07T12:24:14+00:00,2013-07-10,Free,1367.0,Newport County,https://media.api-sports.io/football/teams/1367.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+17531,Jamie Stephens,2023-09-07T12:24:14+00:00,2013-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,4909.0,Airbus UK,https://media.api-sports.io/football/teams/4909.png
+17531,Jamie Stephens,2023-09-07T12:24:14+00:00,2013-01-11,Loan,4909.0,Airbus UK,https://media.api-sports.io/football/teams/4909.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+100726,Florent Sinama-Pongolle,2023-09-07T12:33:53+00:00,2007-07-01,4M €,9410.0,Recreativo Huelva,https://media.api-sports.io/football/teams/9410.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+100726,Florent Sinama-Pongolle,2023-09-07T12:33:53+00:00,2006-07-01,Loan,9410.0,Recreativo Huelva,https://media.api-sports.io/football/teams/9410.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+100726,Florent Sinama-Pongolle,2023-09-07T12:33:53+00:00,2006-01-31,Loan,67.0,Blackburn,https://media.api-sports.io/football/teams/67.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+100726,Florent Sinama-Pongolle,2023-09-07T12:33:53+00:00,2003-07-01,400K €,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,111.0,LE Havre,https://media.api-sports.io/football/teams/111.png
+19691,J. Hobbs,2023-09-07T13:07:00+00:00,2009-08-01,Free,46.0,Leicester,https://media.api-sports.io/football/teams/46.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19691,J. Hobbs,2023-09-07T13:07:00+00:00,2008-08-01,Loan,46.0,Leicester,https://media.api-sports.io/football/teams/46.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19691,J. Hobbs,2023-09-07T13:07:00+00:00,2008-01-28,Loan,1340.0,Scunthorpe,https://media.api-sports.io/football/teams/1340.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19691,J. Hobbs,2023-09-07T13:07:00+00:00,2005-08-13,€ 225K,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1379.0,Lincoln,https://media.api-sports.io/football/teams/1379.png
+82880,R. Crump,2023-09-07T13:09:51+00:00,2017-10-11,Free,1820.0,Chester,https://media.api-sports.io/football/teams/1820.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82158,J. Sokolik,2023-09-07T13:18:50+00:00,2014-07-01,Free,1377.0,Yeovil Town,https://media.api-sports.io/football/teams/1377.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82158,J. Sokolik,2023-09-07T13:18:50+00:00,2014-03-11,Loan,1341.0,Southend,https://media.api-sports.io/football/teams/1341.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+101824,Hostin Maximiliano Pereyra Ríos,2023-09-09T08:01:27+00:00,2018-01-08,Free,2364.0,Atenas,https://media.api-sports.io/football/teams/2364.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87051,Alou Diarra,2023-09-10T06:42:30+00:00,010705,3M €,116.0,Lens,https://media.api-sports.io/football/teams/116.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87051,Alou Diarra,2023-09-10T06:42:30+00:00,010804,Loan,116.0,Lens,https://media.api-sports.io/football/teams/116.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87051,Alou Diarra,2023-09-10T06:42:30+00:00,010903,Loan,1305.0,Bastia,https://media.api-sports.io/football/teams/1305.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87051,Alou Diarra,2023-09-10T06:42:30+00:00,020802,Loan,111.0,LE Havre,https://media.api-sports.io/football/teams/111.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87051,Alou Diarra,2023-09-10T06:42:30+00:00,010802,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,157.0,Bayern Munich,https://media.api-sports.io/football/teams/157.png
+22270,C. Itandje,2023-09-10T06:55:26+00:00,2011-01-01,Free,12260.0,Atromitos,https://media.api-sports.io/football/teams/12260.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+22270,C. Itandje,2023-09-10T06:55:26+00:00,2009-08-31,Loan,5049.0,Kavala,https://media.api-sports.io/football/teams/5049.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+22270,C. Itandje,2023-09-10T06:55:26+00:00,2007-08-08,€ 1.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,116.0,Lens,https://media.api-sports.io/football/teams/116.png
+21013,Mohamed Lamine Sissoko Gillan,2023-09-10T07:01:30+00:00,2008-01-01,€ 11M,496.0,Juventus,https://media.api-sports.io/football/teams/496.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+21013,Mohamed Lamine Sissoko Gillan,2023-09-10T07:01:30+00:00,2005-07-01,€ 12M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,532.0,Valencia,https://media.api-sports.io/football/teams/532.png
+19613,O. Ejaria,2023-12-26T16:45:45+00:00,2019-08-08,Loan,53.0,Reading,https://media.api-sports.io/football/teams/53.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19613,O. Ejaria,2023-12-26T16:45:45+00:00,2018-07-01,Loan,257.0,Rangers,https://media.api-sports.io/football/teams/257.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19613,O. Ejaria,2023-12-26T16:45:45+00:00,2018-01-31,Loan,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18840,M. Kelly,2024-01-07T19:18:57+00:00,2014-08-14,N/A,52.0,Crystal Palace,https://media.api-sports.io/football/teams/52.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18840,M. Kelly,2024-01-07T19:18:57+00:00,2009-03-26,Loan,37.0,Huddersfield,https://media.api-sports.io/football/teams/37.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18840,M. Kelly,2024-01-07T19:18:57+00:00,2014-08-14,N/A,52.0,Crystal Palace,https://media.api-sports.io/football/teams/52.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18840,M. Kelly,2024-01-07T19:18:57+00:00,2009-03-26,Loan,37.0,Huddersfield,https://media.api-sports.io/football/teams/37.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19034,R. Babel,2024-01-12T10:13:28+00:00,2011-01-26,€ 7M,167.0,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19034,R. Babel,2024-01-12T10:13:28+00:00,2007-07-13,€ 17.3M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,194.0,Ajax,https://media.api-sports.io/football/teams/194.png
+26299,E. Insúa,2024-01-22T15:06:40+00:00,2011-08-27,Free,228.0,Sporting CP,https://media.api-sports.io/football/teams/228.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+50804,C. Mavinga,2024-02-24T04:13:45+00:00,2011-07-19,€ 1M,94.0,Rennes,https://media.api-sports.io/football/teams/94.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+50804,C. Mavinga,2024-02-24T04:13:45+00:00,2011-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,742.0,Genk,https://media.api-sports.io/football/teams/742.png
+50804,C. Mavinga,2024-02-24T04:13:45+00:00,2011-01-13,Loan,742.0,Genk,https://media.api-sports.io/football/teams/742.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+71257,V. Bijev,2024-02-28T01:20:25+00:00,2014-05-29,Free,854.0,Slavia Sofia,https://media.api-sports.io/football/teams/854.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+71257,V. Bijev,2024-02-28T01:20:25+00:00,2012-08-28,Loan,334.0,Start,https://media.api-sports.io/football/teams/334.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+71257,V. Bijev,2024-02-28T01:20:25+00:00,2011-08-31,Loan,158.0,Fortuna Dusseldorf,https://media.api-sports.io/football/teams/158.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19233,Daniel Ayala,2024-03-14T22:23:25+00:00,2011-08-12,€ 900K,71.0,Norwich,https://media.api-sports.io/football/teams/71.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19233,Daniel Ayala,2024-03-14T22:23:25+00:00,2011-02-01,Loan,69.0,Derby,https://media.api-sports.io/football/teams/69.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19233,Daniel Ayala,2024-03-14T22:23:25+00:00,2010-09-01,Loan,64.0,Hull City,https://media.api-sports.io/football/teams/64.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+507,Thiago Alcântara,2024-06-26T10:21:19+00:00,2020-09-18,€ 24M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,157.0,Bayern Munich,https://media.api-sports.io/football/teams/157.png
+286,J. Matip,2024-06-26T10:21:32+00:00,2016-07-01,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,174.0,FC Schalke 04,https://media.api-sports.io/football/teams/174.png
+1735,A. Firth,2024-06-30T08:15:44+00:00,2018-07-21,N/A,1819.0,Barrow,https://media.api-sports.io/football/teams/1819.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1735,A. Firth,2024-06-30T08:15:44+00:00,2018-01-27,Loan,1820.0,Chester,https://media.api-sports.io/football/teams/1820.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+11013,N. Mihaylov,2024-07-01T12:06:40+00:00,2008-07-01,Free,415.0,Twente,https://media.api-sports.io/football/teams/415.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+11013,N. Mihaylov,2024-07-01T12:06:40+00:00,2007-07-01,€ 150K,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,646.0,Levski Sofia,https://media.api-sports.io/football/teams/646.png
+152979,James Barry Norris,2025-09-29T01:14:53+00:00,2024-05-11,,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1381.0,Tranmere,https://media.api-sports.io/football/teams/1381.png
+152979,James Barry Norris,2025-09-29T01:14:53+00:00,2025-02-17,Loan,3854.0,Shelbourne,https://media.api-sports.io/football/teams/3854.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+30591,K. Adorján,2024-07-15T08:17:05+00:00,2014-09-01,N/A,513.0,Novara,https://media.api-sports.io/football/teams/513.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+30591,K. Adorján,2024-07-15T08:17:05+00:00,2014-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,202.0,Groningen,https://media.api-sports.io/football/teams/202.png
+30591,K. Adorján,2024-07-15T08:17:05+00:00,2013-07-22,Loan,202.0,Groningen,https://media.api-sports.io/football/teams/202.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+291,I. Christie-Davies,2024-07-23T20:08:42+00:00,2020-01-08,Loan,741.0,Cercle Brugge,https://media.api-sports.io/football/teams/741.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82780,J. Lussey,2024-07-26T09:15:20+00:00,2015-07-01,Free,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82780,J. Lussey,2024-07-26T09:15:20+00:00,2015-03-26,Loan,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18876,J. Ibe,2024-07-26T10:08:35+00:00,2016-07-14,€ 18M,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18876,J. Ibe,2024-07-26T10:08:35+00:00,2015-01-16,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,69.0,Derby,https://media.api-sports.io/football/teams/69.png
+18876,J. Ibe,2024-07-26T10:08:35+00:00,2014-08-29,Loan,69.0,Derby,https://media.api-sports.io/football/teams/69.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18876,J. Ibe,2024-07-26T10:08:35+00:00,2014-05-05,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,54.0,Birmingham,https://media.api-sports.io/football/teams/54.png
+18876,J. Ibe,2024-07-26T10:08:35+00:00,2014-02-21,Loan,54.0,Birmingham,https://media.api-sports.io/football/teams/54.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18876,J. Ibe,2024-07-26T10:08:35+00:00,2012-01-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1358.0,Wycombe,https://media.api-sports.io/football/teams/1358.png
+17959,D. Amoo,2024-07-26T10:08:47+00:00,2012-07-01,Free,59.0,Preston,https://media.api-sports.io/football/teams/59.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+17959,D. Amoo,2024-07-26T10:08:47+00:00,2011-09-23,Loan,1344.0,Bury,https://media.api-sports.io/football/teams/1344.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+17959,D. Amoo,2024-07-26T10:08:47+00:00,2011-03-02,Loan,64.0,Hull City,https://media.api-sports.io/football/teams/64.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+17959,D. Amoo,2024-07-26T10:08:47+00:00,2011-01-25,Loan,1348.0,Milton Keynes Dons,https://media.api-sports.io/football/teams/1348.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+171057,M. Parker,2024-09-21T10:19:48+00:00,2017-04-02,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,69.0,Derby,https://media.api-sports.io/football/teams/69.png
+223395,S. Wright,2024-12-14T10:18:30+00:00,2002-07-01,€ 4.5M,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+30550,Ragnar Klavan,2025-01-06T11:12:39+00:00,2018-08-17,€ 1.3M,490.0,Cagliari,https://media.api-sports.io/football/teams/490.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+30550,Ragnar Klavan,2025-01-06T11:12:39+00:00,2016-07-20,€ 5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,170.0,FC Augsburg,https://media.api-sports.io/football/teams/170.png
+19210,Andre Wisdom,2025-02-16T13:12:59+00:00,2016-08-31,Loan,571.0,Red Bull Salzburg,https://media.api-sports.io/football/teams/571.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19210,Andre Wisdom,2025-02-16T13:12:59+00:00,2016-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,71.0,Norwich,https://media.api-sports.io/football/teams/71.png
+19210,Andre Wisdom,2025-02-16T13:12:59+00:00,2015-07-29,Loan,71.0,Norwich,https://media.api-sports.io/football/teams/71.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19210,Andre Wisdom,2025-02-16T13:12:59+00:00,2015-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,60.0,West Brom,https://media.api-sports.io/football/teams/60.png
+19210,Andre Wisdom,2025-02-16T13:12:59+00:00,2014-07-22,Loan,60.0,West Brom,https://media.api-sports.io/football/teams/60.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19210,Andre Wisdom,2025-02-16T13:12:59+00:00,2014-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,69.0,Derby,https://media.api-sports.io/football/teams/69.png
+19210,Andre Wisdom,2025-02-16T13:12:59+00:00,2013-10-22,Loan,69.0,Derby,https://media.api-sports.io/football/teams/69.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+41924,Toni Gomes,2025-02-26T11:07:14+00:00,2018-07-01,N/A,240.0,Arouca,https://media.api-sports.io/football/teams/240.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+41924,Toni Gomes,2025-02-26T11:07:14+00:00,2017-08-31,Loan,1378.0,Forest Green,https://media.api-sports.io/football/teams/1378.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+28584,K. Polgár,2025-05-02T21:12:13+00:00,2016-07-01,Free,2395.0,Szombathelyi Haladas,https://media.api-sports.io/football/teams/2395.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51270,K. Németh,2025-05-03T05:09:13+00:00,2010-08-22,€ 1.2M,553.0,Olympiakos Piraeus,https://media.api-sports.io/football/teams/553.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51270,K. Németh,2025-05-03T05:09:13+00:00,2009-08-25,Loan,575.0,AEK Athens FC,https://media.api-sports.io/football/teams/575.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51270,K. Németh,2025-05-03T05:09:13+00:00,2009-01-27,Loan,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51270,K. Németh,2025-05-03T05:09:13+00:00,2007-07-05,€ 3M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2396.0,MTK Budapest,https://media.api-sports.io/football/teams/2396.png
+69523,Alex Joseph O'Hanlon,2025-05-03T09:08:51+00:00,2017-01-09,N/A,3843.0,St Patrick's Athl.,https://media.api-sports.io/football/teams/3843.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+69229,D. Cleary,2025-05-03T10:08:03+00:00,2017-07-01,Free,54.0,Birmingham,https://media.api-sports.io/football/teams/54.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20232,Ryan McLaughlin,2025-05-03T10:08:59+00:00,2016-08-09,Free,1349.0,Oldham,https://media.api-sports.io/football/teams/1349.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20232,Ryan McLaughlin,2025-05-03T10:08:59+00:00,2015-09-01,Loan,252.0,Aberdeen,https://media.api-sports.io/football/teams/252.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20232,Ryan McLaughlin,2025-05-03T10:08:59+00:00,2014-05-05,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,747.0,Barnsley,https://media.api-sports.io/football/teams/747.png
+20232,Ryan McLaughlin,2025-05-03T10:08:59+00:00,2014-01-09,Loan,747.0,Barnsley,https://media.api-sports.io/football/teams/747.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+138825,M. Boyes,2025-05-07T01:06:54+00:00,2020-08-12,Loan,1336.0,Fleetwood Town,https://media.api-sports.io/football/teams/1336.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2022-07-13,Free,43.0,Cardiff,https://media.api-sports.io/football/teams/43.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2022-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,58.0,Millwall,https://media.api-sports.io/football/teams/58.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2021-08-31,Loan,58.0,Millwall,https://media.api-sports.io/football/teams/58.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2021-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,43.0,Cardiff,https://media.api-sports.io/football/teams/43.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2019-07-01,Loan,257.0,Rangers,https://media.api-sports.io/football/teams/257.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2018-08-30,Loan,93.0,Reims,https://media.api-sports.io/football/teams/93.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2018-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,36.0,Fulham,https://media.api-sports.io/football/teams/36.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2016-01-07,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,39.0,Wolves,https://media.api-sports.io/football/teams/39.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2015-08-04,Loan,39.0,Wolves,https://media.api-sports.io/football/teams/39.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2015-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,61.0,Wigan,https://media.api-sports.io/football/teams/61.png
+22010,S. Ojo,2025-05-07T15:06:28+00:00,2015-02-02,Loan,61.0,Wigan,https://media.api-sports.io/football/teams/61.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+295,A. Lallana,2025-05-08T14:05:19+00:00,2020-07-27,Free,51.0,Brighton,https://media.api-sports.io/football/teams/51.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+295,A. Lallana,2025-05-08T14:05:19+00:00,2014-07-01,€ 31M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,41.0,Southampton,https://media.api-sports.io/football/teams/41.png
+162441,J. Ojrzyński,2025-05-08T20:07:06+00:00,2022-07-01,Loan,4248.0,Radomiak Radom,https://media.api-sports.io/football/teams/4248.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+49931,S. Caulker,2025-05-09T13:05:58+00:00,2016-06-01,N/A,72.0,QPR,https://media.api-sports.io/football/teams/72.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+49931,S. Caulker,2025-05-09T13:05:58+00:00,2016-01-12,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,72.0,QPR,https://media.api-sports.io/football/teams/72.png
+3442,Toni Silva,2025-05-12T08:08:51+00:00,2012-07-22,Free,747.0,Barnsley,https://media.api-sports.io/football/teams/747.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+3442,Toni Silva,2025-05-12T08:08:51+00:00,2012-02-10,Loan,1337.0,Northampton,https://media.api-sports.io/football/teams/1337.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1473,Tiago Ilori,2025-05-12T17:18:42+00:00,2017-01-09,€ 4.3M,53.0,Reading,https://media.api-sports.io/football/teams/53.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1473,Tiago Ilori,2025-05-12T17:18:42+00:00,2016-01-08,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,66.0,Aston Villa,https://media.api-sports.io/football/teams/66.png
+1473,Tiago Ilori,2025-05-12T17:18:42+00:00,2015-09-01,Loan,66.0,Aston Villa,https://media.api-sports.io/football/teams/66.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1473,Tiago Ilori,2025-05-12T17:18:42+00:00,2014-08-18,Loan,78.0,Bordeaux,https://media.api-sports.io/football/teams/78.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1473,Tiago Ilori,2025-05-12T17:18:42+00:00,2014-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,715.0,Granada CF,https://media.api-sports.io/football/teams/715.png
+1473,Tiago Ilori,2025-05-12T17:18:42+00:00,2014-01-20,Loan,715.0,Granada CF,https://media.api-sports.io/football/teams/715.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1473,Tiago Ilori,2025-05-12T17:18:42+00:00,2013-09-01,€ 7.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,228.0,Sporting CP,https://media.api-sports.io/football/teams/228.png
+1859,Luis Alberto,2025-05-14T07:09:07+00:00,2016-08-31,N/A,487.0,Lazio,https://media.api-sports.io/football/teams/487.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1859,Luis Alberto,2025-05-14T07:09:07+00:00,2016-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,544.0,Deportivo La Coruna,https://media.api-sports.io/football/teams/544.png
+1859,Luis Alberto,2025-05-14T07:09:07+00:00,2015-07-06,Loan,544.0,Deportivo La Coruna,https://media.api-sports.io/football/teams/544.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1859,Luis Alberto,2025-05-14T07:09:07+00:00,2014-07-01,Loan,535.0,Malaga,https://media.api-sports.io/football/teams/535.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1859,Luis Alberto,2025-05-14T07:09:07+00:00,2013-07-01,€ 8M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,536.0,Sevilla,https://media.api-sports.io/football/teams/536.png
+19028,L. Marković,2025-05-17T14:10:46+00:00,2019-01-31,Free,36.0,Fulham,https://media.api-sports.io/football/teams/36.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19028,L. Marković,2025-05-17T14:10:46+00:00,2018-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,554.0,Anderlecht,https://media.api-sports.io/football/teams/554.png
+19028,L. Marković,2025-05-17T14:10:46+00:00,2018-01-31,Loan,554.0,Anderlecht,https://media.api-sports.io/football/teams/554.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19028,L. Marković,2025-05-17T14:10:46+00:00,2017-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,64.0,Hull City,https://media.api-sports.io/football/teams/64.png
+19028,L. Marković,2025-05-17T14:10:46+00:00,2016-08-31,Loan,228.0,Sporting CP,https://media.api-sports.io/football/teams/228.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19028,L. Marković,2025-05-17T14:10:46+00:00,2016-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,611.0,Fenerbahce,https://media.api-sports.io/football/teams/611.png
+19028,L. Marković,2025-05-17T14:10:46+00:00,2015-08-30,Loan,611.0,Fenerbahce,https://media.api-sports.io/football/teams/611.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19028,L. Marković,2025-05-17T14:10:46+00:00,2014-07-15,€ 25M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,211.0,Benfica,https://media.api-sports.io/football/teams/211.png
+18842,M. Sakho,2025-05-19T23:15:46+00:00,2017-08-31,€ 28.3M,52.0,Crystal Palace,https://media.api-sports.io/football/teams/52.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18842,M. Sakho,2025-05-19T23:15:46+00:00,2017-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,52.0,Crystal Palace,https://media.api-sports.io/football/teams/52.png
+18842,M. Sakho,2025-05-19T23:15:46+00:00,2017-01-31,Loan,52.0,Crystal Palace,https://media.api-sports.io/football/teams/52.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18842,M. Sakho,2025-05-19T23:15:46+00:00,2013-08-31,€ 19M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,85.0,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png
+305,D. Origi,2025-05-20T05:09:21+00:00,2022-07-05,Free,489.0,AC Milan,https://media.api-sports.io/football/teams/489.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+305,D. Origi,2025-05-20T05:09:21+00:00,2018-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,161.0,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png
+305,D. Origi,2025-05-20T05:09:21+00:00,2017-08-31,Loan,161.0,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+305,D. Origi,2025-05-20T05:09:21+00:00,2015-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,79.0,Lille,https://media.api-sports.io/football/teams/79.png
+305,D. Origi,2025-05-20T05:09:21+00:00,2014-07-29,Loan,79.0,Lille,https://media.api-sports.io/football/teams/79.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+305,D. Origi,2025-05-20T05:09:21+00:00,2014-07-29,€ 12M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,79.0,Lille,https://media.api-sports.io/football/teams/79.png
+49958,A. Cissokho,2025-05-20T10:10:59+00:00,2014-07-01,N/A,532.0,Valencia,https://media.api-sports.io/football/teams/532.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+49958,A. Cissokho,2025-05-20T10:10:59+00:00,2013-08-20,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,532.0,Valencia,https://media.api-sports.io/football/teams/532.png
+1477,S. Coates,2025-05-20T11:10:49+00:00,2015-07-01,€ 2.8M,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1477,S. Coates,2025-05-20T11:10:49+00:00,2014-09-01,Loan,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1477,S. Coates,2025-05-20T11:10:49+00:00,2014-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2356.0,Club Nacional,https://media.api-sports.io/football/teams/2356.png
+1477,S. Coates,2025-05-20T11:10:49+00:00,2014-01-23,Loan,2356.0,Club Nacional,https://media.api-sports.io/football/teams/2356.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1477,S. Coates,2025-05-20T11:10:49+00:00,2011-08-31,€ 8M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2356.0,Club Nacional,https://media.api-sports.io/football/teams/2356.png
+19502,J. Allen,2025-05-26T23:12:06+00:00,2016-07-25,€ 15.5M,75.0,Stoke City,https://media.api-sports.io/football/teams/75.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19502,J. Allen,2025-05-26T23:12:06+00:00,2012-08-10,€ 19M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,76.0,Swansea,https://media.api-sports.io/football/teams/76.png
+284287,Mateusz Konrad Musiałowski,2025-05-31T17:12:18+00:00,2024-08-05,Free,3402.0,Omonia Nicosia,https://media.api-sports.io/football/teams/3402.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18896,Javier Manquillo,2025-06-01T09:15:34+00:00,2014-08-06,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,530.0,Atletico Madrid,https://media.api-sports.io/football/teams/530.png
+1650,Suso,2025-06-01T10:23:52+00:00,2015-01-17,N/A,489.0,AC Milan,https://media.api-sports.io/football/teams/489.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1650,Suso,2025-06-01T10:23:52+00:00,2014-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,723.0,Almeria,https://media.api-sports.io/football/teams/723.png
+1650,Suso,2025-06-01T10:23:52+00:00,2013-07-12,Loan,723.0,Almeria,https://media.api-sports.io/football/teams/723.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1917,M. Balotelli,2025-06-01T13:11:06+00:00,2016-08-31,Free,84.0,Nice,https://media.api-sports.io/football/teams/84.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1917,M. Balotelli,2025-06-01T13:11:06+00:00,2016-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,489.0,AC Milan,https://media.api-sports.io/football/teams/489.png
+1917,M. Balotelli,2025-06-01T13:11:06+00:00,2015-08-25,Loan,489.0,AC Milan,https://media.api-sports.io/football/teams/489.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1917,M. Balotelli,2025-06-01T13:11:06+00:00,2014-08-25,€ 20M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,489.0,AC Milan,https://media.api-sports.io/football/teams/489.png
+1624,Pepe Reina,2025-06-01T13:13:25+00:00,2014-08-07,€ 3M,157.0,Bayern München,https://media.api-sports.io/football/teams/157.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1624,Pepe Reina,2025-06-01T13:13:25+00:00,2013-07-24,Loan,492.0,Napoli,https://media.api-sports.io/football/teams/492.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1624,Pepe Reina,2025-06-01T13:13:25+00:00,2005-07-01,€ 9.8M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,533.0,Villarreal,https://media.api-sports.io/football/teams/533.png
+93671,Pedro Chirivella,2025-06-01T14:13:42+00:00,2019-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,860.0,Extremadura,https://media.api-sports.io/football/teams/860.png
+93671,Pedro Chirivella,2025-06-01T14:13:42+00:00,2019-01-31,Loan,860.0,Extremadura,https://media.api-sports.io/football/teams/860.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+93671,Pedro Chirivella,2025-06-01T14:13:42+00:00,2017-07-26,Loan,195.0,Willem II,https://media.api-sports.io/football/teams/195.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+93671,Pedro Chirivella,2025-06-01T14:13:42+00:00,2017-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,410.0,GO Ahead Eagles,https://media.api-sports.io/football/teams/410.png
+93671,Pedro Chirivella,2025-06-01T14:13:42+00:00,2017-01-06,Loan,410.0,GO Ahead Eagles,https://media.api-sports.io/football/teams/410.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82230,J. Dunn,2025-06-01T23:11:18+00:00,2017-06-09,Free,1381.0,Tranmere,https://media.api-sports.io/football/teams/1381.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82230,J. Dunn,2025-06-01T23:11:18+00:00,2017-02-01,Loan,1381.0,Tranmere,https://media.api-sports.io/football/teams/1381.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82230,J. Dunn,2025-06-01T23:11:18+00:00,2016-07-30,Loan,1375.0,Morecambe,https://media.api-sports.io/football/teams/1375.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82230,J. Dunn,2025-06-01T23:11:18+00:00,2015-03-26,Loan,748.0,Burton Albion,https://media.api-sports.io/football/teams/748.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82230,J. Dunn,2025-06-01T23:11:18+00:00,2015-03-25,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1372.0,Cheltenham,https://media.api-sports.io/football/teams/1372.png
+82230,J. Dunn,2025-06-01T23:11:18+00:00,2015-01-01,Loan,1372.0,Cheltenham,https://media.api-sports.io/football/teams/1372.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19197,S. Carson,2025-06-02T06:06:33+00:00,2005-08-01,Loan,74.0,Sheffield Wednesday,https://media.api-sports.io/football/teams/74.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19197,S. Carson,2025-06-02T06:06:33+00:00,2005-01-21,€ 1.4M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,63.0,Leeds,https://media.api-sports.io/football/teams/63.png
+20062,M. Virtue-Thick,2025-06-02T06:11:36+00:00,2019-01-31,N/A,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20062,M. Virtue-Thick,2025-06-02T06:11:36+00:00,2018-01-11,Loan,1376.0,Notts County,https://media.api-sports.io/football/teams/1376.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+2678,Diogo Jota,2025-06-02T06:24:32+00:00,2020-09-19,€ 45M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,39.0,Wolves,https://media.api-sports.io/football/teams/39.png
+180316,H. Davies,2025-09-29T00:17:39+00:00,2024-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1363.0,Crewe,https://media.api-sports.io/football/teams/1363.png
+180316,H. Davies,2025-09-29T00:17:39+00:00,2023-07-01,Loan,1363.0,Crewe,https://media.api-sports.io/football/teams/1363.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+180316,H. Davies,2025-09-29T00:17:39+00:00,2025-06-26,Loan,1362.0,Crawley Town,https://media.api-sports.io/football/teams/1362.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+162687,V. Jaroš,2025-09-29T00:33:38+00:00,2024-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,637.0,Sturm Graz,https://media.api-sports.io/football/teams/637.png
+162687,V. Jaroš,2025-09-29T00:33:38+00:00,2024-01-09,Loan,637.0,Sturm Graz,https://media.api-sports.io/football/teams/637.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+162687,V. Jaroš,2025-09-29T00:33:38+00:00,2022-07-04,Loan,4686.0,Stockport County,https://media.api-sports.io/football/teams/4686.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+162687,V. Jaroš,2025-09-29T00:33:38+00:00,2022-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1376.0,Notts County,https://media.api-sports.io/football/teams/1376.png
+162687,V. Jaroš,2025-09-29T00:33:38+00:00,2021-02-03,Loan,3843.0,St Patrick's Athl.,https://media.api-sports.io/football/teams/3843.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+162687,V. Jaroš,2025-09-29T00:33:38+00:00,2025-06-23,Loan,194.0,Ajax,https://media.api-sports.io/football/teams/194.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+138828,Y. Larouci,2025-06-02T06:25:44+00:00,2021-07-28,Free,110.0,Estac Troyes,https://media.api-sports.io/football/teams/110.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+37711,A. Phillips,2025-06-02T07:13:02+00:00,2017-07-28,N/A,71.0,Norwich,https://media.api-sports.io/football/teams/71.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+127369,G. Johnston,2025-06-02T07:14:36+00:00,2019-08-07,€ 300K,209.0,Feyenoord,https://media.api-sports.io/football/teams/209.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+310186,C. Scanlon,2025-06-02T07:18:51+00:00,2024-08-29,Loan,58.0,Millwall,https://media.api-sports.io/football/teams/58.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+190505,J. Berry-McNally,2025-06-02T07:20:36+00:00,2017-11-06,N/A,61.0,Wigan,https://media.api-sports.io/football/teams/61.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20236,M. Williams,2025-06-02T07:23:05+00:00,2017-09-01,Loan,1339.0,Rochdale,https://media.api-sports.io/football/teams/1339.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20236,M. Williams,2025-06-02T07:23:05+00:00,2017-01-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png
+20236,M. Williams,2025-06-02T07:23:05+00:00,2015-07-10,Loan,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20236,M. Williams,2025-06-02T07:23:05+00:00,2015-03-26,Loan,1376.0,Notts County,https://media.api-sports.io/football/teams/1376.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+284249,Max Reuben Woltman,2025-06-02T08:09:42+00:00,2023-08-03,N/A,1338.0,Oxford United,https://media.api-sports.io/football/teams/1338.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+284249,Max Reuben Woltman,2025-06-02T08:09:42+00:00,2023-01-16,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1354.0,Doncaster,https://media.api-sports.io/football/teams/1354.png
+284249,Max Reuben Woltman,2025-06-02T08:09:42+00:00,2022-09-01,Loan,1354.0,Doncaster,https://media.api-sports.io/football/teams/1354.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18955,D. Ings,2025-06-02T08:20:51+00:00,2019-07-01,€ 22.3M,41.0,Southampton,https://media.api-sports.io/football/teams/41.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18955,D. Ings,2025-06-02T08:20:51+00:00,2018-08-09,Loan,41.0,Southampton,https://media.api-sports.io/football/teams/41.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18955,D. Ings,2025-06-02T08:20:51+00:00,2015-07-01,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,44.0,Burnley,https://media.api-sports.io/football/teams/44.png
+20224,A. Lonergan,2025-06-02T09:08:31+00:00,2020-12-01,Free,75.0,Stoke City,https://media.api-sports.io/football/teams/75.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20224,A. Lonergan,2025-06-02T09:08:31+00:00,2019-07-15,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1339.0,Rochdale,https://media.api-sports.io/football/teams/1339.png
+138826,A. Lewis,2025-06-02T09:09:20+00:00,2022-07-01,Loan,1367.0,Newport County,https://media.api-sports.io/football/teams/1367.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+138826,A. Lewis,2025-06-02T09:09:20+00:00,2022-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,255.0,Livingston,https://media.api-sports.io/football/teams/255.png
+138826,A. Lewis,2025-06-02T09:09:20+00:00,2021-07-01,Loan,255.0,Livingston,https://media.api-sports.io/football/teams/255.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+138826,A. Lewis,2025-06-02T09:09:20+00:00,2021-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1357.0,Plymouth,https://media.api-sports.io/football/teams/1357.png
+138826,A. Lewis,2025-06-02T09:09:20+00:00,2021-01-14,Loan,1357.0,Plymouth,https://media.api-sports.io/football/teams/1357.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+138826,A. Lewis,2025-06-02T09:09:20+00:00,2020-08-17,Loan,87.0,Amiens,https://media.api-sports.io/football/teams/87.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19937,H. Kane,2025-06-02T09:09:59+00:00,2020-10-16,N/A,747.0,Barnsley,https://media.api-sports.io/football/teams/747.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19937,H. Kane,2025-06-02T09:09:59+00:00,2020-01-03,Loan,64.0,Hull City,https://media.api-sports.io/football/teams/64.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19937,H. Kane,2025-06-02T09:09:59+00:00,2019-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1354.0,Doncaster,https://media.api-sports.io/football/teams/1354.png
+19937,H. Kane,2025-06-02T09:09:59+00:00,2018-08-02,Loan,1354.0,Doncaster,https://media.api-sports.io/football/teams/1354.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+301,B. Woodburn,2025-06-02T09:20:34+00:00,2022-07-04,Free,59.0,Preston,https://media.api-sports.io/football/teams/59.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+301,B. Woodburn,2025-06-02T09:20:34+00:00,2021-08-23,Loan,254.0,Heart Of Midlothian,https://media.api-sports.io/football/teams/254.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+301,B. Woodburn,2025-06-02T09:20:34+00:00,2019-07-30,Loan,1338.0,Oxford United,https://media.api-sports.io/football/teams/1338.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+301,B. Woodburn,2025-06-02T09:20:34+00:00,2019-01-09,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,62.0,Sheffield Utd,https://media.api-sports.io/football/teams/62.png
+301,B. Woodburn,2025-06-02T09:20:34+00:00,2018-08-01,Loan,62.0,Sheffield Utd,https://media.api-sports.io/football/teams/62.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20327,S. Hart,2025-06-02T10:13:45+00:00,2017-08-31,N/A,67.0,Blackburn,https://media.api-sports.io/football/teams/67.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20327,S. Hart,2025-06-02T10:13:45+00:00,2016-08-25,Loan,1351.0,Port Vale,https://media.api-sports.io/football/teams/1351.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20059,Jay Francis Spearing,2025-06-02T11:17:22+00:00,2013-08-09,€ 1.6M,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20059,Jay Francis Spearing,2025-06-02T11:17:22+00:00,2012-08-31,Loan,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20059,Jay Francis Spearing,2025-06-02T11:17:22+00:00,2010-03-22,Loan,46.0,Leicester,https://media.api-sports.io/football/teams/46.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+280683,James Balagizi,2025-06-02T11:17:43+00:00,2024-01-24,Loan,250.0,Kilmarnock,https://media.api-sports.io/football/teams/250.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+280683,James Balagizi,2025-06-02T11:17:43+00:00,2023-07-19,Loan,61.0,Wigan,https://media.api-sports.io/football/teams/61.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+280683,James Balagizi,2025-06-02T11:17:43+00:00,2023-01-20,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1362.0,Crawley Town,https://media.api-sports.io/football/teams/1362.png
+280683,James Balagizi,2025-06-02T11:17:43+00:00,2022-07-01,Loan,1362.0,Crawley Town,https://media.api-sports.io/football/teams/1362.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+90496,C. Masterson,2025-06-02T12:10:50+00:00,2019-07-01,Free,72.0,QPR,https://media.api-sports.io/football/teams/72.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+90496,C. Masterson,2025-06-02T12:10:50+00:00,2016-08-01,N/A,15380.0,Liverpool U18,https://media.api-sports.io/football/teams/15380.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+17406,J. Rossiter,2025-06-02T19:16:47+00:00,2016-07-01,N/A,257.0,Rangers,https://media.api-sports.io/football/teams/257.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+287111,Fabian Mrozek,2025-06-02T19:20:40+00:00,2024-07-26,Loan,371.0,IF Brommapojkarna,https://media.api-sports.io/football/teams/371.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82061,C. Whelan,2025-06-02T20:11:01+00:00,2018-08-31,Loan,1363.0,Crewe,https://media.api-sports.io/football/teams/1363.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+82061,C. Whelan,2025-06-02T20:11:01+00:00,2018-01-05,Loan,1377.0,Yeovil Town,https://media.api-sports.io/football/teams/1377.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87926,E. Obi,2025-06-02T20:11:09+00:00,2016-11-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1344.0,Bury,https://media.api-sports.io/football/teams/1344.png
+1347,V. Moses,2025-06-02T23:05:36+00:00,2014-07-01,N/A,49.0,Chelsea,https://media.api-sports.io/football/teams/49.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1347,V. Moses,2025-06-02T23:05:36+00:00,2013-09-02,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,49.0,Chelsea,https://media.api-sports.io/football/teams/49.png
+138411,Liam John Hughes,2025-06-03T05:08:58+00:00,2024-02-08,Free,2080.0,Haka,https://media.api-sports.io/football/teams/2080.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+138411,Liam John Hughes,2025-06-03T05:08:58+00:00,2022-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,7749.0,Stalybridge Celtic,https://media.api-sports.io/football/teams/7749.png
+138411,Liam John Hughes,2025-06-03T05:08:58+00:00,2022-01-07,Loan,7749.0,Stalybridge Celtic,https://media.api-sports.io/football/teams/7749.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+286764,Kaide Gordon,2025-07-11T02:40:56+00:00,2025-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1355.0,Portsmouth,https://media.api-sports.io/football/teams/1355.png
+286764,Kaide Gordon,2025-07-11T02:40:56+00:00,2025-01-14,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,71.0,Norwich,https://media.api-sports.io/football/teams/71.png
+284366,L. Chambers,2025-07-14T00:19:00+00:00,2024-08-06,Loan,61.0,Wigan,https://media.api-sports.io/football/teams/61.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+284366,L. Chambers,2025-07-14T00:19:00+00:00,2024-01-12,Loan,61.0,Wigan,https://media.api-sports.io/football/teams/61.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+284366,L. Chambers,2025-07-14T00:19:00+00:00,2023-01-30,Loan,250.0,Kilmarnock,https://media.api-sports.io/football/teams/250.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+284366,L. Chambers,2025-07-14T00:19:00+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,61.0,Wigan,https://media.api-sports.io/football/teams/61.png
+87764,C. Randall,2025-07-14T18:52:34+00:00,2019-09-12,Free,1430.0,Arda Kardzhali,https://media.api-sports.io/football/teams/1430.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87764,C. Randall,2025-07-14T18:52:34+00:00,2017-07-28,Loan,254.0,Heart Of Midlothian,https://media.api-sports.io/football/teams/254.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+87764,C. Randall,2025-07-14T18:52:34+00:00,2015-01-16,Loan,1352.0,Shrewsbury,https://media.api-sports.io/football/teams/1352.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+48368,M. Hansen,2025-07-21T07:48:00+00:00,2012-01-31,N/A,2070.0,Viborg,https://media.api-sports.io/football/teams/2070.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+48368,M. Hansen,2025-07-21T07:48:00+00:00,2011-07-28,Loan,1343.0,Bradford,https://media.api-sports.io/football/teams/1343.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+48125,A. Kačaniklić,2025-07-21T08:08:47+00:00,2010-08-31,Free,36.0,Fulham,https://media.api-sports.io/football/teams/36.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+2793,V. Pálsson,2025-07-21T08:18:49+00:00,2011-01-01,Free,249.0,Hibernian,https://media.api-sports.io/football/teams/249.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+2793,V. Pálsson,2025-07-21T08:18:49+00:00,2010-11-01,Loan,1821.0,Dagenham & Redbridge,https://media.api-sports.io/football/teams/1821.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18904,J. Shelvey,2025-07-23T16:20:22+00:00,2013-07-03,€ 5.9M,76.0,Swansea,https://media.api-sports.io/football/teams/76.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18904,J. Shelvey,2025-07-23T16:20:22+00:00,2011-10-01,Loan,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18904,J. Shelvey,2025-07-23T16:20:22+00:00,2010-07-01,€ 2M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1335.0,Charlton,https://media.api-sports.io/football/teams/1335.png
+328107,L. Koumas,2025-07-23T16:24:09+00:00,2025-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,75.0,Stoke City,https://media.api-sports.io/football/teams/75.png
+328107,L. Koumas,2025-07-23T16:24:09+00:00,2024-08-10,Loan,75.0,Stoke City,https://media.api-sports.io/football/teams/75.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1756,R. Kent,2025-07-29T08:06:27+00:00,2019-09-02,€ 7.7M,257.0,Rangers,https://media.api-sports.io/football/teams/257.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1756,R. Kent,2025-07-29T08:06:27+00:00,2019-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,257.0,Rangers,https://media.api-sports.io/football/teams/257.png
+1756,R. Kent,2025-07-29T08:06:27+00:00,2018-07-22,Loan,257.0,Rangers,https://media.api-sports.io/football/teams/257.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1756,R. Kent,2025-07-29T08:06:27+00:00,2018-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,56.0,Bristol City,https://media.api-sports.io/football/teams/56.png
+1756,R. Kent,2025-07-29T08:06:27+00:00,2018-01-12,Loan,56.0,Bristol City,https://media.api-sports.io/football/teams/56.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1756,R. Kent,2025-07-29T08:06:27+00:00,2017-08-31,Loan,160.0,SC Freiburg,https://media.api-sports.io/football/teams/160.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1756,R. Kent,2025-07-29T08:06:27+00:00,2017-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,747.0,Barnsley,https://media.api-sports.io/football/teams/747.png
+1756,R. Kent,2025-07-29T08:06:27+00:00,2016-07-26,Loan,747.0,Barnsley,https://media.api-sports.io/football/teams/747.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1756,R. Kent,2025-07-29T08:06:27+00:00,2016-01-06,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1346.0,Coventry,https://media.api-sports.io/football/teams/1346.png
+1756,R. Kent,2025-07-29T08:06:27+00:00,2015-09-11,Loan,1346.0,Coventry,https://media.api-sports.io/football/teams/1346.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+147,Philippe Coutinho,2025-07-29T08:12:14+00:00,2018-01-06,€ 120M,529.0,Barcelona,https://media.api-sports.io/football/teams/529.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+147,Philippe Coutinho,2025-07-29T08:12:14+00:00,2013-01-30,€ 10M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,505.0,Inter,https://media.api-sports.io/football/teams/505.png
+180866,Marcelo,2025-09-29T00:09:15+00:00,2024-08-30,Loan,255.0,Livingston,https://media.api-sports.io/football/teams/255.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+180866,Marcelo,2025-09-29T00:09:15+00:00,2024-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,3843.0,St Patrick's Athl.,https://media.api-sports.io/football/teams/3843.png
+180866,Marcelo,2025-09-29T00:09:15+00:00,2022-12-05,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1380.0,Macclesfield,https://media.api-sports.io/football/teams/1380.png
+180866,Marcelo,2025-09-29T00:09:15+00:00,2022-07-01,Loan,1380.0,Macclesfield,https://media.api-sports.io/football/teams/1380.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+180866,Marcelo,2025-09-29T00:09:15+00:00,2025-01-06,Free Transfer,124.0,Fluminense,https://media.api-sports.io/football/teams/124.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+10319,Allan,2025-07-29T08:24:46+00:00,2020-01-08,€ 3.5M,1062.0,Atletico-MG,https://media.api-sports.io/football/teams/1062.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+10319,Allan,2025-07-29T08:24:46+00:00,2019-02-01,Loan,124.0,Fluminense,https://media.api-sports.io/football/teams/124.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+10319,Allan,2025-07-29T08:24:46+00:00,2016-01-18,Loan,735.0,St. Truiden,https://media.api-sports.io/football/teams/735.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+10319,Allan,2025-07-29T08:24:46+00:00,2015-09-02,Loan,689.0,SJK,https://media.api-sports.io/football/teams/689.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+79371,A. Arroyo,2025-07-29T08:41:33+00:00,2022-07-09,Loan,542.0,Alaves,https://media.api-sports.io/football/teams/542.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+79371,A. Arroyo,2025-07-29T08:41:33+00:00,2020-10-05,Loan,9588.0,Salamanca UDS,https://media.api-sports.io/football/teams/9588.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+79371,A. Arroyo,2025-07-29T08:41:33+00:00,2018-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1147.0,Fortaleza FC,https://media.api-sports.io/football/teams/1147.png
+1648,F. Borini,2025-07-29T08:49:59+00:00,2015-08-31,€ 10M,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1648,F. Borini,2025-07-29T08:49:59+00:00,2014-05-14,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png
+1648,F. Borini,2025-07-29T08:49:59+00:00,2013-09-02,Loan,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1648,F. Borini,2025-07-29T08:49:59+00:00,2012-07-16,€ 13.3M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,497.0,AS Roma,https://media.api-sports.io/football/teams/497.png
+18831,A. Carroll,2025-07-29T09:10:22+00:00,2013-07-01,€ 17.5M,48.0,West Ham,https://media.api-sports.io/football/teams/48.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18831,A. Carroll,2025-07-29T09:10:22+00:00,2012-08-30,Loan,48.0,West Ham,https://media.api-sports.io/football/teams/48.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18831,A. Carroll,2025-07-29T09:10:22+00:00,2011-02-01,€ 41M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,34.0,Newcastle,https://media.api-sports.io/football/teams/34.png
+1972,L. Karius,2025-07-29T09:27:49+00:00,2022-09-12,Free,34.0,Newcastle,https://media.api-sports.io/football/teams/34.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1972,L. Karius,2025-07-29T09:27:49+00:00,2021-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,182.0,Union Berlin,https://media.api-sports.io/football/teams/182.png
+1972,L. Karius,2025-07-29T09:27:49+00:00,2020-09-28,Loan,182.0,Union Berlin,https://media.api-sports.io/football/teams/182.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1972,L. Karius,2025-07-29T09:27:49+00:00,2020-09-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,549.0,Besiktas,https://media.api-sports.io/football/teams/549.png
+1972,L. Karius,2025-07-29T09:27:49+00:00,2018-08-25,Loan,549.0,Besiktas,https://media.api-sports.io/football/teams/549.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1972,L. Karius,2025-07-29T09:27:49+00:00,2016-07-01,€ 10M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,164.0,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png
+20111,C. Brannagan,2025-07-29T09:29:53+00:00,2017-01-27,Loan,1336.0,Fleetwood Town,https://media.api-sports.io/football/teams/1336.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18146,D. Ward,2025-07-29T09:31:18+00:00,2018-07-20,€ 14M,46.0,Leicester,https://media.api-sports.io/football/teams/46.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18146,D. Ward,2025-07-29T09:31:18+00:00,2017-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,37.0,Huddersfield,https://media.api-sports.io/football/teams/37.png
+18146,D. Ward,2025-07-29T09:31:18+00:00,2016-07-11,Loan,37.0,Huddersfield,https://media.api-sports.io/football/teams/37.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18146,D. Ward,2025-07-29T09:31:18+00:00,2016-01-11,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,252.0,Aberdeen,https://media.api-sports.io/football/teams/252.png
+18146,D. Ward,2025-07-29T09:31:18+00:00,2015-06-26,Loan,252.0,Aberdeen,https://media.api-sports.io/football/teams/252.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18146,D. Ward,2025-07-29T09:31:18+00:00,2015-04-26,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1375.0,Morecambe,https://media.api-sports.io/football/teams/1375.png
+18146,D. Ward,2025-07-29T09:31:18+00:00,2015-03-20,Loan,1375.0,Morecambe,https://media.api-sports.io/football/teams/1375.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18146,D. Ward,2025-07-29T09:31:18+00:00,2012-01-30,€ 125K,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1837.0,Wrexham,https://media.api-sports.io/football/teams/1837.png
+2549,L. Vigouroux,2025-07-29T09:31:50+00:00,2015-07-31,N/A,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2025-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,69.0,Derby,https://media.api-sports.io/football/teams/69.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2024-08-30,Loan,69.0,Derby,https://media.api-sports.io/football/teams/69.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2024-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,43.0,Cardiff,https://media.api-sports.io/football/teams/43.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2024-01-30,Loan,43.0,Cardiff,https://media.api-sports.io/football/teams/43.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2024-01-03,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,247.0,Celtic,https://media.api-sports.io/football/teams/247.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2023-08-31,Loan,247.0,Celtic,https://media.api-sports.io/football/teams/247.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2022-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2022-01-31,Loan,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2020-08-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,172.0,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2020-01-13,Loan,172.0,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2020-01-02,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,172.0,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png
+127472,N. Phillips,2025-09-29T00:19:31+00:00,2025-06-23,Transfer,60.0,West Brom,https://media.api-sports.io/football/teams/60.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19505,T. Ince,2025-07-29T09:33:14+00:00,2011-08-04,€ 65K,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19505,T. Ince,2025-07-29T09:33:14+00:00,2010-10-15,Loan,1376.0,Notts County,https://media.api-sports.io/football/teams/1376.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+303,R. Brewster,2025-07-29T09:35:27+00:00,2020-10-02,€ 26M,62.0,Sheffield Utd,https://media.api-sports.io/football/teams/62.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+303,R. Brewster,2025-07-29T09:35:27+00:00,2020-08-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,76.0,Swansea,https://media.api-sports.io/football/teams/76.png
+303,R. Brewster,2025-07-29T09:35:27+00:00,2020-01-07,Loan,76.0,Swansea,https://media.api-sports.io/football/teams/76.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19294,J. Robinson,2025-07-29T09:35:38+00:00,2014-08-28,N/A,72.0,QPR,https://media.api-sports.io/football/teams/72.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19294,J. Robinson,2025-07-29T09:35:38+00:00,2014-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png
+19294,J. Robinson,2025-07-29T09:35:38+00:00,2013-08-01,Loan,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19294,J. Robinson,2025-07-29T09:35:38+00:00,2013-02-18,Loan,39.0,Wolves,https://media.api-sports.io/football/teams/39.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+138829,E. Dixon-Bonner,2025-07-29T09:36:05+00:00,2022-10-13,Free,72.0,QPR,https://media.api-sports.io/football/teams/72.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18741,C. Coady,2025-07-29T09:38:06+00:00,2014-08-06,N/A,37.0,Huddersfield,https://media.api-sports.io/football/teams/37.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18741,C. Coady,2025-07-29T09:38:06+00:00,2014-05-05,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,62.0,Sheffield Utd,https://media.api-sports.io/football/teams/62.png
+18741,C. Coady,2025-07-29T09:38:06+00:00,2013-07-22,Loan,62.0,Sheffield Utd,https://media.api-sports.io/football/teams/62.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+44798,L. Millar,2025-07-29T09:38:51+00:00,2020-01-08,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,250.0,Kilmarnock,https://media.api-sports.io/football/teams/250.png
+44798,L. Millar,2025-07-29T09:38:51+00:00,2019-08-06,Loan,250.0,Kilmarnock,https://media.api-sports.io/football/teams/250.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+44798,L. Millar,2025-07-29T09:38:51+00:00,2019-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,250.0,Kilmarnock,https://media.api-sports.io/football/teams/250.png
+44798,L. Millar,2025-07-29T09:38:51+00:00,2019-01-31,Loan,250.0,Kilmarnock,https://media.api-sports.io/football/teams/250.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20389,L. Jones,2025-07-29T09:40:12+00:00,2018-01-31,N/A,1359.0,Luton,https://media.api-sports.io/football/teams/1359.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20389,L. Jones,2025-07-29T09:40:12+00:00,2017-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png
+20389,L. Jones,2025-07-29T09:40:12+00:00,2016-08-05,Loan,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20389,L. Jones,2025-07-29T09:40:12+00:00,2015-07-10,Loan,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20389,L. Jones,2025-07-29T09:40:12+00:00,2015-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1360.0,Accrington ST,https://media.api-sports.io/football/teams/1360.png
+20389,L. Jones,2025-07-29T09:40:12+00:00,2015-03-12,Loan,1360.0,Accrington ST,https://media.api-sports.io/football/teams/1360.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+20389,L. Jones,2025-07-29T09:40:12+00:00,2015-02-15,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1372.0,Cheltenham,https://media.api-sports.io/football/teams/1372.png
+20389,L. Jones,2025-07-29T09:40:12+00:00,2015-01-01,Loan,1372.0,Cheltenham,https://media.api-sports.io/football/teams/1372.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+158693,O. Beck,2025-07-29T09:42:31+00:00,2022-07-11,Loan,242.0,Famalicao,https://media.api-sports.io/football/teams/242.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+287,D. Lovren,2025-07-29T09:46:37+00:00,2020-07-27,€ 12M,596.0,Zenit,https://media.api-sports.io/football/teams/596.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+287,D. Lovren,2025-07-29T09:46:37+00:00,2014-07-27,€ 25.3M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,41.0,Southampton,https://media.api-sports.io/football/teams/41.png
+6806,J. Brimmer,2025-07-29T09:59:06+00:00,2017-07-31,Free,940.0,Perth Glory,https://media.api-sports.io/football/teams/940.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+334729,B. Clark,2025-07-29T10:32:42+00:00,2024-08-22,€ 11.7M,571.0,Red Bull Salzburg,https://media.api-sports.io/football/teams/571.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+310187,Stefan Bajčetić,2025-09-29T00:18:19+00:00,2024-08-30,Loan,571.0,Red Bull Salzburg,https://media.api-sports.io/football/teams/571.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+310187,Stefan Bajčetić,2025-09-29T00:18:19+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Las Palmas,
+310187,Stefan Bajčetić,2025-09-29T00:18:19+00:00,2025-01-31,Loan,,Las Palmas,,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+310187,Stefan Bajčetić,2025-09-29T00:18:19+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,534.0,Las Palmas,https://media.api-sports.io/football/teams/534.png
+310187,Stefan Bajčetić,2025-09-29T00:18:19+00:00,2025-01-31,Loan,534.0,Las Palmas,https://media.api-sports.io/football/teams/534.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+292,J. Henderson,2025-07-29T10:44:18+00:00,2023-07-27,€ 14M,2934.0,Al-Ettifaq,https://media.api-sports.io/football/teams/2934.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+292,J. Henderson,2025-07-29T10:44:18+00:00,2011-07-01,€ 18M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png
+37273,K. Peterson,2025-07-29T10:46:56+00:00,2014-08-27,N/A,207.0,Utrecht,https://media.api-sports.io/football/teams/207.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+37273,K. Peterson,2025-07-29T10:46:56+00:00,2014-01-03,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1381.0,Tranmere,https://media.api-sports.io/football/teams/1381.png
+37273,K. Peterson,2025-07-29T10:46:56+00:00,2013-11-28,Loan,1381.0,Tranmere,https://media.api-sports.io/football/teams/1381.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1101,T. Minamino,2025-07-29T10:53:37+00:00,2022-07-01,Free,91.0,Monaco,https://media.api-sports.io/football/teams/91.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1101,T. Minamino,2025-07-29T10:53:37+00:00,2021-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,41.0,Southampton,https://media.api-sports.io/football/teams/41.png
+1101,T. Minamino,2025-07-29T10:53:37+00:00,2021-02-01,Loan,41.0,Southampton,https://media.api-sports.io/football/teams/41.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1101,T. Minamino,2025-07-29T10:53:37+00:00,2020-01-01,€ 8.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,571.0,Red Bull Salzburg,https://media.api-sports.io/football/teams/571.png
+288,Alberto Moreno,2025-07-29T10:57:18+00:00,2019-07-09,Free,533.0,Villarreal,https://media.api-sports.io/football/teams/533.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+288,Alberto Moreno,2025-07-29T10:57:18+00:00,2014-08-16,€ 18M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,536.0,Sevilla,https://media.api-sports.io/football/teams/536.png
+150,Arthur,2025-07-29T11:02:07+00:00,2022-09-01,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,496.0,Juventus,https://media.api-sports.io/football/teams/496.png
+189,D. Padelli,2025-07-29T11:03:38+00:00,2007-01-02,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,498.0,Sampdoria,https://media.api-sports.io/football/teams/498.png
+1139,P. Gulácsi,2025-07-29T11:06:17+00:00,2013-07-01,Free,571.0,Red Bull Salzburg,https://media.api-sports.io/football/teams/571.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1139,P. Gulácsi,2025-07-29T11:06:17+00:00,2011-07-26,Loan,64.0,Hull City,https://media.api-sports.io/football/teams/64.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1139,P. Gulácsi,2025-07-29T11:06:17+00:00,2010-09-01,Loan,1381.0,Tranmere,https://media.api-sports.io/football/teams/1381.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1139,P. Gulácsi,2025-07-29T11:06:17+00:00,2010-04-17,Loan,1381.0,Tranmere,https://media.api-sports.io/football/teams/1381.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1139,P. Gulácsi,2025-07-29T11:06:17+00:00,2009-02-04,Loan,11932.0,Hereford United,https://media.api-sports.io/football/teams/11932.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+26300,O. Kabak,2025-07-29T11:09:45+00:00,2021-07-01,N/A,174.0,FC Schalke 04,https://media.api-sports.io/football/teams/174.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+26300,O. Kabak,2025-07-29T11:09:45+00:00,2021-02-01,Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,174.0,FC Schalke 04,https://media.api-sports.io/football/teams/174.png
+864,E. Can,2025-07-29T11:10:32+00:00,2018-07-01,Free,496.0,Juventus,https://media.api-sports.io/football/teams/496.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+864,E. Can,2025-07-29T11:10:32+00:00,2014-07-03,€ 12M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,168.0,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png
+15573,K. Grabara,2025-07-29T11:11:15+00:00,2019-01-06,Loan,406.0,Aarhus,https://media.api-sports.io/football/teams/406.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+294,N. Keïta,2025-07-29T11:12:07+00:00,2023-07-01,Free,162.0,Werder Bremen,https://media.api-sports.io/football/teams/162.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+294,N. Keïta,2025-07-29T11:12:07+00:00,2018-07-01,€ 60M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,173.0,RB Leipzig,https://media.api-sports.io/football/teams/173.png
+158698,J. Quansah,2025-09-29T00:22:20+00:00,2023-01-20,Loan,1334.0,Bristol Rovers,https://media.api-sports.io/football/teams/1334.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+158698,J. Quansah,2025-09-29T00:22:20+00:00,2025-07-02,Transfer,168.0,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18812,Adrián,2025-07-29T11:22:38+00:00,2024-07-08,Free,543.0,Real Betis,https://media.api-sports.io/football/teams/543.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18812,Adrián,2025-07-29T11:22:38+00:00,2019-08-05,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,48.0,West Ham,https://media.api-sports.io/football/teams/48.png
+19352,Sergi Canós,2025-07-29T11:23:33+00:00,2016-07-13,€ 3M,71.0,Norwich,https://media.api-sports.io/football/teams/71.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19352,Sergi Canós,2025-07-29T11:23:33+00:00,2016-05-14,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,55.0,Brentford,https://media.api-sports.io/football/teams/55.png
+19352,Sergi Canós,2025-07-29T11:23:33+00:00,2015-08-31,Loan,55.0,Brentford,https://media.api-sports.io/football/teams/55.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+47445,Iago Aspas,2025-07-29T11:27:00+00:00,2015-07-01,€ 6M,536.0,Sevilla,https://media.api-sports.io/football/teams/536.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+47445,Iago Aspas,2025-07-29T11:27:00+00:00,2014-07-15,Loan,536.0,Sevilla,https://media.api-sports.io/football/teams/536.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+47445,Iago Aspas,2025-07-29T11:27:00+00:00,2013-07-01,€ 8.2M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,538.0,Celta Vigo,https://media.api-sports.io/football/teams/538.png
+153066,Fábio Carvalho,2025-07-29T11:35:26+00:00,2024-08-12,€ 23.4M,55.0,Brentford,https://media.api-sports.io/football/teams/55.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+153066,Fábio Carvalho,2025-07-29T11:35:26+00:00,2024-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,64.0,Hull City,https://media.api-sports.io/football/teams/64.png
+153066,Fábio Carvalho,2025-07-29T11:35:26+00:00,2024-01-10,Loan,64.0,Hull City,https://media.api-sports.io/football/teams/64.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+153066,Fábio Carvalho,2025-07-29T11:35:26+00:00,2023-07-01,Loan,173.0,RB Leipzig,https://media.api-sports.io/football/teams/173.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+153066,Fábio Carvalho,2025-07-29T11:35:26+00:00,2022-07-01,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,36.0,Fulham,https://media.api-sports.io/football/teams/36.png
+36922,S. van den Berg,2025-07-29T11:35:27+00:00,2024-08-22,€ 23.6M,55.0,Brentford,https://media.api-sports.io/football/teams/55.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+36922,S. van den Berg,2025-07-29T11:35:27+00:00,2024-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,164.0,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png
+36922,S. van den Berg,2025-07-29T11:35:27+00:00,2023-07-13,Loan,164.0,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+36922,S. van den Berg,2025-07-29T11:35:27+00:00,2023-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,174.0,FC Schalke 04,https://media.api-sports.io/football/teams/174.png
+36922,S. van den Berg,2025-07-29T11:35:27+00:00,2022-08-30,Loan,174.0,FC Schalke 04,https://media.api-sports.io/football/teams/174.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+36922,S. van den Berg,2025-07-29T11:35:27+00:00,2022-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,59.0,Preston,https://media.api-sports.io/football/teams/59.png
+36922,S. van den Berg,2025-07-29T11:35:27+00:00,2021-02-01,Loan,59.0,Preston,https://media.api-sports.io/football/teams/59.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+36922,S. van den Berg,2025-07-29T11:35:27+00:00,2019-06-27,€ 1.9M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,193.0,PEC Zwolle,https://media.api-sports.io/football/teams/193.png
+8598,T. Awoniyi,2025-07-29T11:35:41+00:00,2021-07-20,6.5M,182.0,Union Berlin,https://media.api-sports.io/football/teams/182.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+8598,T. Awoniyi,2025-07-29T11:35:41+00:00,2021-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,182.0,Union Berlin,https://media.api-sports.io/football/teams/182.png
+8598,T. Awoniyi,2025-07-29T11:35:41+00:00,2020-09-19,Loan,182.0,Union Berlin,https://media.api-sports.io/football/teams/182.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+8598,T. Awoniyi,2025-07-29T11:35:41+00:00,2019-01-12,Loan,743.0,Royal Excel Mouscron,https://media.api-sports.io/football/teams/743.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+8598,T. Awoniyi,2025-07-29T11:35:41+00:00,2017-07-31,Loan,743.0,Royal Excel Mouscron,https://media.api-sports.io/football/teams/743.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+8598,T. Awoniyi,2025-07-29T11:35:41+00:00,2015-08-31,Loan,1332.0,FSV Frankfurt,https://media.api-sports.io/football/teams/1332.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+138780,N. Williams,2025-07-29T11:35:53+00:00,2022-07-10,€ 20M,65.0,Nottingham Forest,https://media.api-sports.io/football/teams/65.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+138780,N. Williams,2025-07-29T11:35:53+00:00,2022-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,36.0,Fulham,https://media.api-sports.io/football/teams/36.png
+138780,N. Williams,2025-07-29T11:35:53+00:00,2022-01-31,Loan,36.0,Fulham,https://media.api-sports.io/football/teams/36.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+296,J. Milner,2025-07-29T11:36:37+00:00,2023-07-01,Free,51.0,Brighton,https://media.api-sports.io/football/teams/51.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+296,J. Milner,2025-07-29T11:36:37+00:00,2015-07-06,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,50.0,Manchester City,https://media.api-sports.io/football/teams/50.png
+285,K. Hoever,2025-07-29T11:37:48+00:00,2020-09-19,N/A,39.0,Wolves,https://media.api-sports.io/football/teams/39.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18862,N. Clyne,2025-07-29T11:38:16+00:00,2020-10-14,Free,52.0,Crystal Palace,https://media.api-sports.io/football/teams/52.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18862,N. Clyne,2025-07-29T11:38:16+00:00,2019-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png
+18862,N. Clyne,2025-07-29T11:38:16+00:00,2019-01-04,Loan,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18862,N. Clyne,2025-07-29T11:38:16+00:00,2015-07-01,€ 17.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,41.0,Southampton,https://media.api-sports.io/football/teams/41.png
+18883,D. Solanke,2025-07-29T11:39:53+00:00,2019-01-04,€ 21M,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+18883,D. Solanke,2025-07-29T11:39:53+00:00,2017-07-01,Free,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,49.0,Chelsea,https://media.api-sports.io/football/teams/49.png
+314661,J. Danns,2025-07-29T11:40:50+00:00,2025-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png
+314661,J. Danns,2025-07-29T11:40:50+00:00,2025-02-04,Loan,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+306,Mohamed Salah,2025-07-29T11:43:06+00:00,2017-07-01,€ 42M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,497.0,AS Roma,https://media.api-sports.io/football/teams/497.png
+247,C. Gakpo,2025-07-29T11:43:07+00:00,2023-01-01,€ 50M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,197.0,PSV Eindhoven,https://media.api-sports.io/football/teams/197.png
+51617,D. Núñez,2025-07-29T11:43:08+00:00,2022-06-14,€ 75M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,211.0,Benfica,https://media.api-sports.io/football/teams/211.png
+343576,B. Doak,2025-09-29T00:18:19+00:00,2024-08-30,Loan,70.0,Middlesbrough,https://media.api-sports.io/football/teams/70.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+343576,B. Doak,2025-09-29T00:18:19+00:00,2022-11-09,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,247.0,Celtic,https://media.api-sports.io/football/teams/247.png
+343576,B. Doak,2025-09-29T00:18:19+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Middlesbrough,
+343576,B. Doak,2025-09-29T00:18:19+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,70.0,Middlesbrough,https://media.api-sports.io/football/teams/70.png
+343576,B. Doak,2025-09-29T00:18:19+00:00,2025-08-18,Transfer,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+2489,L. Díaz,2025-09-29T00:22:20+00:00,2022-01-30,€ 44.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,212.0,FC Porto,https://media.api-sports.io/football/teams/212.png
+2489,L. Díaz,2025-09-29T00:22:20+00:00,2025-07-30,Transfer,157.0,Bayern München,https://media.api-sports.io/football/teams/157.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+30410,F. Chiesa,2025-07-29T11:43:12+00:00,2024-08-29,12M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,496.0,Juventus,https://media.api-sports.io/football/teams/496.png
+284367,Luca Stephenson,2025-07-29T11:43:14+00:00,2025-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1386.0,Dundee Utd,https://media.api-sports.io/football/teams/1386.png
+284367,Luca Stephenson,2025-07-29T11:43:14+00:00,2024-08-15,Loan,1386.0,Dundee Utd,https://media.api-sports.io/football/teams/1386.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+1096,D. Szoboszlai,2025-07-29T11:43:14+00:00,2023-07-02,€ 70M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,173.0,RB Leipzig,https://media.api-sports.io/football/teams/173.png
+19035,H. Elliott,2025-09-29T00:18:19+00:00,2021-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,67.0,Blackburn,https://media.api-sports.io/football/teams/67.png
+19035,H. Elliott,2025-09-29T00:18:19+00:00,2020-10-16,Loan,67.0,Blackburn,https://media.api-sports.io/football/teams/67.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19035,H. Elliott,2025-09-29T00:18:19+00:00,2019-07-27,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,36.0,Fulham,https://media.api-sports.io/football/teams/36.png
+19035,H. Elliott,2025-09-29T00:18:19+00:00,2025-09-01,Loan,66.0,Aston Villa,https://media.api-sports.io/football/teams/66.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+6716,A. Mac Allister,2025-07-29T11:43:21+00:00,2023-06-14,€ 42M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,51.0,Brighton,https://media.api-sports.io/football/teams/51.png
+162590,T. Morton,2025-09-29T00:21:35+00:00,2022-08-01,Loan,67.0,Blackburn,https://media.api-sports.io/football/teams/67.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+162590,T. Morton,2025-09-29T00:21:35+00:00,2025-08-05,Transfer,80.0,Lyon,https://media.api-sports.io/football/teams/80.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+8500,W. Endo,2025-07-29T11:43:21+00:00,2023-08-18,€ 19M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,172.0,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png
+542,R. Gravenberch,2025-07-29T11:43:21+00:00,2023-09-01,€ 18.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,157.0,Bayern München,https://media.api-sports.io/football/teams/157.png
+1145,I. Konaté,2025-07-29T11:43:28+00:00,2021-07-01,€ 41.8M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,173.0,RB Leipzig,https://media.api-sports.io/football/teams/173.png
+290,V. van Dijk,2025-07-29T11:43:28+00:00,2018-01-01,€ 84.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,41.0,Southampton,https://media.api-sports.io/football/teams/41.png
+180317,C. Bradley,2025-07-29T11:43:28+00:00,2022-07-01,Loan,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+284,J. Gomez,2025-07-29T11:43:28+00:00,2015-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1335.0,Charlton,https://media.api-sports.io/football/teams/1335.png
+289,A. Robertson,2025-07-29T11:43:30+00:00,2017-07-21,€ 9M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,64.0,Hull City,https://media.api-sports.io/football/teams/64.png
+1600,K. Tsimikas,2025-09-29T00:28:17+00:00,2020-08-10,€ 13M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,553.0,Olympiakos Piraeus,https://media.api-sports.io/football/teams/553.png
+1600,K. Tsimikas,2025-09-29T00:28:17+00:00,2025-08-31,Loan,497.0,AS Roma,https://media.api-sports.io/football/teams/497.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+135525,C. Ramsay,2025-09-29T00:19:33+00:00,2024-06-14,Loan,61.0,Wigan,https://media.api-sports.io/football/teams/61.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+135525,C. Ramsay,2025-09-29T00:19:33+00:00,2024-01-29,Loan,68.0,Bolton,https://media.api-sports.io/football/teams/68.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+135525,C. Ramsay,2025-09-29T00:19:33+00:00,2023-06-13,Loan,59.0,Preston,https://media.api-sports.io/football/teams/59.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+135525,C. Ramsay,2025-09-29T00:19:33+00:00,2022-06-19,€ 4.9M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,252.0,Aberdeen,https://media.api-sports.io/football/teams/252.png
+135525,C. Ramsay,2025-09-29T00:19:33+00:00,2025-01-03,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Wigan Athletic,
+135525,C. Ramsay,2025-09-29T00:19:33+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Kilmarnock,
+135525,C. Ramsay,2025-09-29T00:19:33+00:00,2025-01-13,Loan,,Kilmarnock,,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+135525,C. Ramsay,2025-09-29T00:19:33+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,250.0,Kilmarnock,https://media.api-sports.io/football/teams/250.png
+135525,C. Ramsay,2025-09-29T00:19:33+00:00,2025-01-13,Loan,250.0,Kilmarnock,https://media.api-sports.io/football/teams/250.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+135525,C. Ramsay,2025-09-29T00:19:33+00:00,2025-01-03,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,61.0,Wigan,https://media.api-sports.io/football/teams/61.png
+162904,R. Williams,2025-09-29T00:18:19+00:00,2024-08-20,Loan,1375.0,Morecambe,https://media.api-sports.io/football/teams/1375.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+162904,R. Williams,2025-09-29T00:18:19+00:00,2024-02-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1351.0,Port Vale,https://media.api-sports.io/football/teams/1351.png
+162904,R. Williams,2025-09-29T00:18:19+00:00,2024-01-16,Loan,1351.0,Port Vale,https://media.api-sports.io/football/teams/1351.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+162904,R. Williams,2025-09-29T00:18:19+00:00,2024-01-04,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,252.0,Aberdeen,https://media.api-sports.io/football/teams/252.png
+162904,R. Williams,2025-09-29T00:18:19+00:00,2023-06-28,Loan,252.0,Aberdeen,https://media.api-sports.io/football/teams/252.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+162904,R. Williams,2025-09-29T00:18:19+00:00,2023-01-23,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png
+162904,R. Williams,2025-09-29T00:18:19+00:00,2022-07-19,Loan,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+162904,R. Williams,2025-09-29T00:18:19+00:00,2022-01-20,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,76.0,Swansea,https://media.api-sports.io/football/teams/76.png
+162904,R. Williams,2025-09-29T00:18:19+00:00,2021-08-31,Loan,76.0,Swansea,https://media.api-sports.io/football/teams/76.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+162904,R. Williams,2025-09-29T00:18:19+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Morecambe,
+162904,R. Williams,2025-09-29T00:18:19+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1375.0,Morecambe,https://media.api-sports.io/football/teams/1375.png
+280,Alisson Becker,2025-07-29T11:43:36+00:00,2018-07-19,€ 62.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,497.0,AS Roma,https://media.api-sports.io/football/teams/497.png
+24760,G. Mamardashvili,2025-09-29T00:18:19+00:00,2024-08-28,Loan,532.0,Valencia,https://media.api-sports.io/football/teams/532.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+24760,G. Mamardashvili,2025-09-29T00:18:19+00:00,2024-08-27,€ 30M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,532.0,Valencia,https://media.api-sports.io/football/teams/532.png
+24760,G. Mamardashvili,2025-09-29T00:18:19+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Valencia,
+24760,G. Mamardashvili,2025-09-29T00:18:19+00:00,2025-07-01,Back from Loan,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,532.0,Valencia,https://media.api-sports.io/football/teams/532.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2021-07-24,€ 14M,36.0,Fulham,https://media.api-sports.io/football/teams/36.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2021-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,43.0,Cardiff,https://media.api-sports.io/football/teams/43.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2020-10-16,Loan,43.0,Cardiff,https://media.api-sports.io/football/teams/43.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2020-08-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2019-08-06,Loan,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2019-07-09,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,69.0,Derby,https://media.api-sports.io/football/teams/69.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2018-07-17,Loan,69.0,Derby,https://media.api-sports.io/football/teams/69.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2018-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,64.0,Hull City,https://media.api-sports.io/football/teams/64.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2018-01-31,Loan,64.0,Hull City,https://media.api-sports.io/football/teams/64.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2017-01-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1363.0,Crewe,https://media.api-sports.io/football/teams/1363.png
+19221,H. Wilson,2025-07-29T11:43:50+00:00,2015-08-26,Loan,1363.0,Crewe,https://media.api-sports.io/football/teams/1363.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+645,R. Sterling,2025-07-29T11:44:30+00:00,2015-07-14,€ 60M,50.0,Manchester City,https://media.api-sports.io/football/teams/50.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51106,B. Smith,2025-07-29T11:47:05+00:00,2016-07-27,€ 7.2M,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51106,B. Smith,2025-07-29T11:47:05+00:00,2015-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png
+51106,B. Smith,2025-07-29T11:47:05+00:00,2014-08-08,Loan,1353.0,Swindon Town,https://media.api-sports.io/football/teams/1353.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+152977,L. Stewart,2025-07-29T12:04:32+00:00,2023-07-22,N/A,59.0,Preston,https://media.api-sports.io/football/teams/59.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+307,X. Shaqiri,2025-07-29T12:09:05+00:00,2021-08-23,€ 6M,80.0,Lyon,https://media.api-sports.io/football/teams/80.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+307,X. Shaqiri,2025-07-29T12:09:05+00:00,2018-07-13,€ 14.7M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,75.0,Stoke City,https://media.api-sports.io/football/teams/75.png
+19437,B. Davies,2025-07-29T12:10:22+00:00,2022-07-19,N/A,257.0,Rangers,https://media.api-sports.io/football/teams/257.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19437,B. Davies,2025-07-29T12:10:22+00:00,2022-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,62.0,Sheffield Utd,https://media.api-sports.io/football/teams/62.png
+19437,B. Davies,2025-07-29T12:10:22+00:00,2021-08-16,Loan,62.0,Sheffield Utd,https://media.api-sports.io/football/teams/62.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+19437,B. Davies,2025-07-29T12:10:22+00:00,2021-02-01,€ 2M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,59.0,Preston,https://media.api-sports.io/football/teams/59.png
+51309,D. Wilson,2025-07-29T12:11:38+00:00,2013-07-01,Free,254.0,Heart Of Midlothian,https://media.api-sports.io/football/teams/254.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51309,D. Wilson,2025-07-29T12:11:38+00:00,2013-01-18,Loan,254.0,Heart Of Midlothian,https://media.api-sports.io/football/teams/254.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51309,D. Wilson,2025-07-29T12:11:38+00:00,2012-11-22,Loan,56.0,Bristol City,https://media.api-sports.io/football/teams/56.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51309,D. Wilson,2025-07-29T12:11:38+00:00,2012-01-01,Loan,1356.0,Blackpool,https://media.api-sports.io/football/teams/1356.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+51309,D. Wilson,2025-07-29T12:11:38+00:00,2010-07-01,€ 2.8M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,257.0,Rangers,https://media.api-sports.io/football/teams/257.png
+82069,S. George,2025-07-29T12:11:45+00:00,2017-08-01,Loan,1371.0,Carlisle,https://media.api-sports.io/football/teams/1371.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+44961,R. Fulton,2025-07-29T12:13:23+00:00,2017-07-18,N/A,248.0,Hamilton Academical,https://media.api-sports.io/football/teams/248.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+44961,R. Fulton,2025-07-29T12:13:23+00:00,2017-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1345.0,Chesterfield,https://media.api-sports.io/football/teams/1345.png
+44961,R. Fulton,2025-07-29T12:13:23+00:00,2016-07-10,Loan,1345.0,Chesterfield,https://media.api-sports.io/football/teams/1345.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+44961,R. Fulton,2025-07-29T12:13:23+00:00,2016-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1355.0,Portsmouth,https://media.api-sports.io/football/teams/1355.png
+44961,R. Fulton,2025-07-29T12:13:23+00:00,2016-01-22,Loan,1355.0,Portsmouth,https://media.api-sports.io/football/teams/1355.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+152974,Billy Dawson Koumetio,2025-07-29T12:14:42+00:00,2023-08-29,Loan,1304.0,Dunkerque,https://media.api-sports.io/football/teams/1304.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+152974,Billy Dawson Koumetio,2025-07-29T12:14:42+00:00,2022-01-01,Loan,601.0,Austria Vienna,https://media.api-sports.io/football/teams/601.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+151754,L. Clarkson,2025-07-29T12:15:44+00:00,2023-06-15,N/A,252.0,Aberdeen,https://media.api-sports.io/football/teams/252.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+151754,L. Clarkson,2025-07-29T12:15:44+00:00,2023-06-14,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,252.0,Aberdeen,https://media.api-sports.io/football/teams/252.png
+46837,Dani Pacheco,2025-07-29T12:23:32+00:00,2013-09-02,Free,711.0,Alcorcon,https://media.api-sports.io/football/teams/711.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+46837,Dani Pacheco,2025-07-29T12:23:32+00:00,2013-01-31,Loan,726.0,Huesca,https://media.api-sports.io/football/teams/726.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+46837,Dani Pacheco,2025-07-29T12:23:32+00:00,2012-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,728.0,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png
+46837,Dani Pacheco,2025-07-29T12:23:32+00:00,2011-04-01,Loan,71.0,Norwich,https://media.api-sports.io/football/teams/71.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+41158,João Teixeira,2025-07-29T12:49:37+00:00,2016-07-01,Free,212.0,FC Porto,https://media.api-sports.io/football/teams/212.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+41158,João Teixeira,2025-07-29T12:49:37+00:00,2015-06-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,51.0,Brighton,https://media.api-sports.io/football/teams/51.png
+41158,João Teixeira,2025-07-29T12:49:37+00:00,2014-08-15,Loan,51.0,Brighton,https://media.api-sports.io/football/teams/51.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+41158,João Teixeira,2025-07-29T12:49:37+00:00,2014-01-06,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,55.0,Brentford,https://media.api-sports.io/football/teams/55.png
+41158,João Teixeira,2025-07-29T12:49:37+00:00,2013-09-10,Loan,55.0,Brentford,https://media.api-sports.io/football/teams/55.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+282,S. Mignolet,2025-07-29T13:18:28+00:00,2019-08-04,€ 7M,569.0,Club Brugge KV,https://media.api-sports.io/football/teams/569.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+282,S. Mignolet,2025-07-29T13:18:28+00:00,2013-07-01,€ 10.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,746.0,Sunderland,https://media.api-sports.io/football/teams/746.png
+297,A. Oxlade-Chamberlain,2025-07-29T13:43:03+00:00,2023-08-14,Free,549.0,Besiktas,https://media.api-sports.io/football/teams/549.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+297,A. Oxlade-Chamberlain,2025-07-29T13:43:03+00:00,2017-08-31,€ 38M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,42.0,Arsenal,https://media.api-sports.io/football/teams/42.png
+300,G. Wijnaldum,2025-07-29T13:56:55+00:00,2021-07-01,Free,85.0,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+300,G. Wijnaldum,2025-07-29T13:56:55+00:00,2016-07-22,€ 30M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,34.0,Newcastle,https://media.api-sports.io/football/teams/34.png
+302,Roberto Firmino,2025-07-29T13:57:57+00:00,2023-07-04,Free,2929.0,Al-Ahli Jeddah,https://media.api-sports.io/football/teams/2929.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+302,Roberto Firmino,2025-07-29T13:57:57+00:00,2015-07-01,€ 41M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,167.0,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png
+304,S. Mané,2025-07-29T13:59:19+00:00,2022-07-01,€ 41M,157.0,Bayern München,https://media.api-sports.io/football/teams/157.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+304,S. Mané,2025-07-29T13:59:19+00:00,2016-07-01,€ 40.7M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,41.0,Southampton,https://media.api-sports.io/football/teams/41.png
+299,Fabinho,2025-07-29T14:00:34+00:00,2023-07-31,€ 46.7M,2938.0,Al-Ittihad FC,https://media.api-sports.io/football/teams/2938.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+299,Fabinho,2025-07-29T14:00:34+00:00,2018-07-01,€ 50M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,91.0,Monaco,https://media.api-sports.io/football/teams/91.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2021-07-20,€ 12M,212.0,FC Porto,https://media.api-sports.io/football/teams/212.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2021-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,212.0,FC Porto,https://media.api-sports.io/football/teams/212.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2020-10-06,Loan,212.0,FC Porto,https://media.api-sports.io/football/teams/212.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2020-08-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,159.0,Hertha BSC,https://media.api-sports.io/football/teams/159.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2019-07-01,Loan,159.0,Hertha BSC,https://media.api-sports.io/football/teams/159.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2018-08-19,Loan,159.0,Hertha BSC,https://media.api-sports.io/football/teams/159.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2018-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,43.0,Cardiff,https://media.api-sports.io/football/teams/43.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2018-01-17,Loan,43.0,Cardiff,https://media.api-sports.io/football/teams/43.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2016-07-01,N/A,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,598.0,FK Crvena Zvezda,https://media.api-sports.io/football/teams/598.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2016-01-08,Loan,598.0,FK Crvena Zvezda,https://media.api-sports.io/football/teams/598.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+25350,M. Grujić,2025-07-29T14:05:55+00:00,2016-01-06,€ 7M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,598.0,FK Crvena Zvezda,https://media.api-sports.io/football/teams/598.png
+2928,C. Benteke,2025-07-29T14:17:53+00:00,2016-08-20,€ 31.2M,52.0,Crystal Palace,https://media.api-sports.io/football/teams/52.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+2928,C. Benteke,2025-07-29T14:17:53+00:00,2015-07-22,€ 46.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,66.0,Aston Villa,https://media.api-sports.io/football/teams/66.png
+51218,B. Lennon,2025-07-29T14:18:32+00:00,2017-02-14,Loan,1606.0,Real Salt Lake,https://media.api-sports.io/football/teams/1606.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+157,L. Suárez,2025-07-29T14:22:32+00:00,2014-07-15,€ 81M,529.0,Barcelona,https://media.api-sports.io/football/teams/529.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+157,L. Suárez,2025-07-29T14:22:32+00:00,2011-01-28,€ 26.5M,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,194.0,Ajax,https://media.api-sports.io/football/teams/194.png
+203224,F. Wirtz,2025-09-29T00:18:19+00:00,2025-06-20,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Bayer Leverkusen,
+203224,F. Wirtz,2025-09-29T00:18:19+00:00,2025-06-20,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,168.0,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png
+342467,Á. Pécsi,2025-09-29T00:48:48+00:00,2025-06-07,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Puskás,
+342467,Á. Pécsi,2025-09-29T00:48:48+00:00,2025-06-07,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,2391.0,Puskas Academy,https://media.api-sports.io/football/teams/2391.png
+18889,F. Woodman,2025-09-29T00:18:19+00:00,2025-07-01,Free Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Preston North End,
+18889,F. Woodman,2025-09-29T00:18:19+00:00,2025-07-01,Free Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,59.0,Preston,https://media.api-sports.io/football/teams/59.png
+174565,H. Ekitike,2025-09-29T00:18:19+00:00,2025-07-23,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Eintracht Frankfurt,
+174565,H. Ekitike,2025-09-29T00:18:19+00:00,2025-07-23,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,169.0,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png
+152654,J. Frimpong,2025-09-29T00:18:19+00:00,2025-06-01,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,,Bayer Leverkusen,
+152654,J. Frimpong,2025-09-29T00:18:19+00:00,2025-06-01,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,168.0,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png
+498377,W. Wright,2025-08-11T00:28:43+00:00,2025-08-04,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,1844.0,Salford City,https://media.api-sports.io/football/teams/1844.png
+281,C. Kelleher,2025-09-29T00:17:15+00:00,2025-06-03,Transfer,55.0,Brentford,https://media.api-sports.io/football/teams/55.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+152976,Thomas Daniel Hill,2025-09-29T00:18:01+00:00,2025-01-22,Transfer,1842.0,Harrogate Town,https://media.api-sports.io/football/teams/1842.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+206254,M. Kerkez,2025-09-29T00:18:19+00:00,2025-06-26,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,35.0,Bournemouth,https://media.api-sports.io/football/teams/35.png
+409047,G. Leoni,2025-09-29T00:18:19+00:00,2025-08-15,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,523.0,Parma,https://media.api-sports.io/football/teams/523.png
+2864,A. Isak,2025-09-29T00:18:38+00:00,2025-09-01,Transfer,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,34.0,Newcastle,https://media.api-sports.io/football/teams/34.png
+283,T. Alexander-Arnold,2025-09-29T00:41:58+00:00,2025-06-01,Transfer,541.0,Real Madrid,https://media.api-sports.io/football/teams/541.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
+60085,Emiliano Alfaro Toscano,2025-09-29T01:03:57+00:00,2019-06-25,,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png,3480.0,Pune City,https://media.api-sports.io/football/teams/3480.png
+51377,S. Viera,2025-09-29T04:12:30+00:00,2020-01-16,Loan,13188.0,San Antonio Scorpions,https://media.api-sports.io/football/teams/13188.png,40.0,Liverpool,https://media.api-sports.io/football/teams/40.png
